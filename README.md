@@ -1,5 +1,10 @@
 # ElektronischeComponenten
 
+## LCD + i2c (Lcd1602)
+<img src="LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="300">
+<a href="LCD + i2c (Lcd1602)/README.md"> more info...</a>
+
+
 ## Micro SD Card Adapter
 <img src="Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="300">
 <a href="Micro SD Card Adapter/README.md"> more info...</a>
