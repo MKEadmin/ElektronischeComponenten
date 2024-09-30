@@ -1,14 +1,18 @@
 # ElektronischeComponenten
 
-## BME280 Pressure Tempereture and Humidity sensor
-<img src="BME280_Pressure_Temp_Humidity/BME280_Photo.jpg" alt="Photo of the component" width="300">
-<a href="BME280_Pressure_Temp_Humidity/README.md"> more info...</a>
+## Micro SD Card Adapter
 
-## MAX20102 Pulse sensor
 
-<img src="MAX30102_Pulse_Sensor/MAX30102_Photo.png" alt="Photo of the component" width="300">
-<a href="MAX30102_Pulse_Sensor/README.md"> more info...</a>
+## Pressure Temp Humidity (BME280)
+<img src="Pressure Temp Humidity (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Pressure Temp Humidity (BME280)/README.md"> more info...</a>
 
+## Pulse Sensor (MAX30102)
+
+<img src="Pulse Sensor (MAX30102)/MAX30102_Photo.png" alt="Photo of the component" width="300">
+<a href="Pulse Sensor (MAX30102)/README.md"> more info...</a>
+
+## Realtime Clock module (DS1302)
 
 
 # setup directories
