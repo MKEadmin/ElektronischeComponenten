@@ -1,7 +1,7 @@
 # ElektronischeComponenten
 
 ## Micro SD Card Adapter
-<img src="Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="300">
+<img src="Micro SD Card Adapter/Micro SD Card Adapter_Photo.png" alt="Photo of the component" width="300">
 <a href="Micro SD Card Adapter/README.md"> more info...</a>
 
 
