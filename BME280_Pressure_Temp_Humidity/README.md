@@ -1,16 +1,7 @@
-# ElektronischeComponenten
-Componenten daVinci College
+## BME280 - Tempereture Pressure Humidity sensor
 
-Iedere map heeft de volgende bestanden om de componenten te beschrijven.
+3.3V Digitale Sensor Temperatuur Vochtigheid Barometrische Druksensor Module I2c Spi 1.8-5V
 
-<Component nummer>_QR_code.jpg      : Dit is de link naar het component
+<img src="BME280_Photo.jpg" alt="Photo of the component">
 
-<Component nummer>_Description.docx : Plaatje en beschrijving van het component. Hier worden ook ervaringen enzo opgeslagen
-
-<Component nummer>_Order.jpg        : Doc met daarin de plek waar het component besteld is.
-
-<Component nummer>_Datasheet.jpg    : Datasheet van het component, of van het hoofd component op een breakout board
-
-<Component nummer>_Example.py       : Voorbeeld code om het component te gebruiken in micropython
-
-
+<img src="BME280_QR_code.jpg" alt="QR code to this page" width="80" height="80">
