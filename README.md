@@ -1,6 +1,8 @@
 # ElektronischeComponenten
 
 ## Micro SD Card Adapter
+<img src="Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Micro SD Card Adapter/README.md"> more info...</a>
 
 
 ## Pressure Temp Humidity (BME280)
@@ -13,6 +15,8 @@
 <a href="Pulse Sensor (MAX30102)/README.md"> more info...</a>
 
 ## Realtime Clock module (DS1302)
+<img src="Realtime Clock module (DS1302)/DS1302_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Realtime Clock module (DS1302)/README.md"> more info...</a>
 
 
 # setup directories
