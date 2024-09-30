@@ -3,7 +3,7 @@ Componenten daVinci College
 
 Iedere map heeft de volgende bestanden om de componenten te beschrijven.
 
-<Component nummer>_QR_code.jpg      : Dit is de link naar het component
+<Component nummer>_QR_code.jpg      : Dit is de link naar het component : Created with : https://qrfy.com/ 
 
 <Component nummer>_Description.docx : Plaatje en beschrijving van het component. Hier worden ook ervaringen enzo opgeslagen
 
