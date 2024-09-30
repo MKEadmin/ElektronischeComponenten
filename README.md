@@ -7,7 +7,7 @@
 ## MAX20102 Pulse sensor
 
 
-
+<a href="MAX30102_Pulse_Sensor/README.md"> more info...</a>
 
 
 
