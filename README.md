@@ -1,4 +1,17 @@
 # ElektronischeComponenten
+
+## BME280 Pressure Tempereture and Humidity sensor
+
+<a href="BME280_Pressure_Temp_Humidity/README.md"> more info...</a>
+
+## MAX20102 Pulse sensor
+
+
+
+
+
+
+# setup directories
 Componenten daVinci College
 
 Iedere map heeft de volgende bestanden om de componenten te beschrijven.
