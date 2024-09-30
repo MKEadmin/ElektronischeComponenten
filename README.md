@@ -1,12 +1,12 @@
 # ElektronischeComponenten
 
 ## BME280 Pressure Tempereture and Humidity sensor
-
+<img src="BME280_Pressure_Temp_Humidity/BME280_Photo.jpg" alt="Photo of the component" width="300">
 <a href="BME280_Pressure_Temp_Humidity/README.md"> more info...</a>
 
 ## MAX20102 Pulse sensor
 
-
+<img src="MAX30102_Pulse_Sensor/MAX30102_Photo.png" alt="Photo of the component" width="300">
 <a href="MAX30102_Pulse_Sensor/README.md"> more info...</a>
 
 
