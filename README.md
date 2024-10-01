@@ -60,11 +60,14 @@
 <img src="Temperature_Humodity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">
 <a href="Temperature_Humodity_Pressure (BME280)/README.md"> more info...</a>
 
-## microController_Arduino-UNO
+## microController Arduino-UNO
+<img src="microController_Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">
 <a href="microController_Arduino-UNO/README.md"> more info...</a>
 
-## microController_Raspberry-Pi-Pico
+## microController Raspberry Pi Pico
+<img src="microController_Raspberry-Pi-Pico/Pico-R3-A4-Pinout.jpg" alt="Photo of the component" width="200">
 <a href="microController_Raspberry-Pi-Pico/README.md"> more info...</a>
 
-## microController_WeMos
+## microController WeMos
+<img src="microController_WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">
 <a href="microController_WeMos/README.md"> more info...</a>
