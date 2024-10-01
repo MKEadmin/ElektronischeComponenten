@@ -1,7 +1,7 @@
 ## Magnetometer (MLX90393)
 
-<img src="MLX90393_Photo.jpeg" alt="Photo of the component">
-<img src="MLX90393_QR_code.jpeg" alt="QR code to this page" width="80" height="80">
+<img src="MLX90393_Photo.jpg" alt="Photo of the component">
+<img src="MLX90393_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
 The **MLX90393** is a highly sensitive, low-power, digital **magnetic field sensor** from Melexis that measures magnetic fields in three dimensions (X, Y, Z). It is commonly used in applications requiring precise magnetic field detection, such as position sensing, motion tracking, and joystick control. The MLX90393 communicates via **I2C** or **SPI** interfaces, making it easy to integrate with microcontrollers like Arduino, Raspberry Pi, and others.
