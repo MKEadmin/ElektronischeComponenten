@@ -12,4 +12,4 @@
 <img src="Pico_Order.jpg" alt="Photo of the Order">
 
 ## Pinout
-<img src="Pico-R3-A4-Pinout.jpg" alt="Pinout Raspberry Pi Pico">
+<img src="Pico-R3-A4-Pinout.pdf" alt="Pinout Raspberry Pi Pico">
