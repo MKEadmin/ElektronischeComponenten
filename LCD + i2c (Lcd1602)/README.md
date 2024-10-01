@@ -39,6 +39,8 @@ Typical Use Cases:
 
 This setup is ideal for hobbyists and developers working with microcontroller platforms, as it simplifies both wiring and code.
 
+## specs
+
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006140674321.html">https://nl.aliexpress.com/item/1005006140674321.html</a>
 <img src="Lcd1602_Order.jpg" alt="Photo of the Order">

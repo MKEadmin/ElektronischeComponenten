@@ -1,9 +1,11 @@
-## MH-ET LIVE MAX30102 Hartslagsensormodule Pulserectie Bloedzuurstofconcentratatietest voor Arduino Ultra-Low Power
+## ADC + pga + i2c (ADS1115)
 
 <img src="ADS1115_Photo.jpg" alt="Photo of the component">
 <img src="ADS1115_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
+
+## specs
 
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006140674321.html">https://nl.aliexpress.com/item/1005006140674321.html</a>
