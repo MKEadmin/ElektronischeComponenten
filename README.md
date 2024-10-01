@@ -51,14 +51,14 @@
 <a href="Temperature (TC74)/README.md"> more info...</a>
 
 
-## Temperature_Humodity (DHT11)
-<img src="Temperature_Humodity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">
-<a href="Temperature_Humodity (DHT11)/README.md"> more info...</a>
+## Temperature Humidity (DHT11)
+<img src="Temperature_Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">
+<a href="Temperature_Humidity (DHT11)/README.md"> more info...</a>
 
 
-## Temperature_Humodity_Pressure (BME280)
-<img src="Temperature_Humodity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">
-<a href="Temperature_Humodity_Pressure (BME280)/README.md"> more info...</a>
+## Temperature Humidity Pressure (BME280)
+<img src="Temperature_Humidity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">
+<a href="Temperature_Humidity_Pressure (BME280)/README.md"> more info...</a>
 
 ## microController Arduino-UNO
 <img src="microController_Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">
