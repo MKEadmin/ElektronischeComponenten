@@ -39,9 +39,9 @@
 <a href="Realtime Clock module (DS1302)/README.md"> more info...</a>
 
 
-## Temperature (TC74A)
-<img src="Temperature (TC74A)/TC74A_Photo.jpg" alt="Photo of the component" width="300">
-<a href="Temperature (TC74A)/README.md"> more info...</a>
+## Temperature (TC74)
+<img src="Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Temperature (TC74)/README.md"> more info...</a>
 
 
 ## Temperature_Humodity (DHT11)
