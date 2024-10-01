@@ -81,7 +81,7 @@ In summary, the **PCA9685** is an incredibly versatile and easy-to-use 16-channe
 
 No python libraries needed to install
 
-## Connecting for example to Raspberry Pico
+
 
 
 

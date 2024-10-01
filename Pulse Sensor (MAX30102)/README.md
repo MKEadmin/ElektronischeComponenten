@@ -64,7 +64,6 @@ The MH-ET LIVE MAX30102 module is compact, easy to integrate, and ideal for wear
 
 No python libraries needed to install
 
-## Connecting for example to Raspberry Pico
 
 
 

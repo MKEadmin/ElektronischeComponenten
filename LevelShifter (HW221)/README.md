@@ -94,7 +94,6 @@ The **HW221** DC-DC step-down converter is an affordable, efficient, and highly 
 
 No python libraries needed to install
 
-## Connecting for example to Raspberry Pico
 
 
 

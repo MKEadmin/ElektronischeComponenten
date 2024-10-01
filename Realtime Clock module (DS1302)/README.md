@@ -85,7 +85,6 @@ In summary, the DS1302 is a versatile and cost-effective real-time clock module 
 
 No python libraries needed to install
 
-## Connecting for example to Raspberry Pico
 
 
 

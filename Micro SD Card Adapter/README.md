@@ -76,8 +76,6 @@ In summary, the **Micro SD Card Adapter Module** for the Raspberry Pi Pico provi
 No python libraries needed to install
 
 
-## Connecting for example to Raspberry Pico
-
 
 
 

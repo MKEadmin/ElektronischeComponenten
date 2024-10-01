@@ -77,7 +77,6 @@ In summary, the DHT11 is a simple and affordable sensor for measuring temperatur
 
 No python libraries needed to install
 
-## Connecting for example to Raspberry Pico
 
 
 

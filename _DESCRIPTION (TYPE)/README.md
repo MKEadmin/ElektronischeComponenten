@@ -14,7 +14,6 @@
 
 No python libraries needed to install
 
-## Connecting for example to Raspberry Pico
 
 
 
