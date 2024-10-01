@@ -11,6 +11,10 @@
 <a href="https://nl.aliexpress.com/item/1005005981296699.html">https://nl.aliexpress.com/item/1005005981296699.html</a>
 <img src="Micro SD Card Adapte_Order.jpg" alt="Photo of the Order">
 
+## Wiring to Raspberry Pi Pico
+
+<img src="Micro SD Card Adapter_Wiring.jpg" alt="Wiring" >
+
 ## installation libraries
 
 No python libraries needed to install

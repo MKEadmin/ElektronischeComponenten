@@ -1,9 +1,14 @@
-"""Provides an API for talking to HD44780 compatible character LCDs."""
+"""
+
+Provides an API for talking to HD44780 compatible character LCDs.
+
+"""
 
 import time
 
 class LcdApi:
-    """Implements the API for talking with HD44780 compatible character LCDs.
+    """
+    Implements the API for talking with HD44780 compatible character LCDs.
     This class only knows what commands to send to the LCD, and not how to get
     them to the LCD.
 
@@ -66,8 +71,8 @@ class LcdApi:
         self.display_on()
 
     def clear(self):
-        """Clears the LCD display and moves the cursor to the top left
-        corner.
+        """
+        Clears the LCD display and moves the cursor to the top left corner.
         """
         self.hal_write_command(self.LCD_CLR)
         self.hal_write_command(self.LCD_HOME)
@@ -75,16 +80,22 @@ class LcdApi:
         self.cursor_y = 0
 
     def show_cursor(self):
-        """Causes the cursor to be made visible."""
+        """
+        Causes the cursor to be made visible.
+        """
         self.hal_write_command(self.LCD_ON_CTRL | self.LCD_ON_DISPLAY |
                                self.LCD_ON_CURSOR)
 
     def hide_cursor(self):
-        """Causes the cursor to be hidden."""
+        """
+        Causes the cursor to be hidden.
+        """
         self.hal_write_command(self.LCD_ON_CTRL | self.LCD_ON_DISPLAY)
 
     def blink_cursor_on(self):
-        """Turns on the cursor, and makes it blink."""
+        """
+        Turns on the cursor, and makes it blink.
+        """
         self.hal_write_command(self.LCD_ON_CTRL | self.LCD_ON_DISPLAY |
                                self.LCD_ON_CURSOR | self.LCD_ON_BLINK)
 

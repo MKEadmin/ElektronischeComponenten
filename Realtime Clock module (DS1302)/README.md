@@ -12,6 +12,10 @@ Realtime_Clock_module
 <a href="https://nl.aliexpress.com/item/1005006627321251.html">https://nl.aliexpress.com/item/1005006627321251.html</a>
 <img src="DS1302_Order.jpg" alt="Photo of the Order">
 
+## Wiring to Raspberry Pi Pico
+
+<img src="DS1302_Wiring.jpg" alt="Wiring" >
+
 ## installation libraries
 
 No python libraries needed to install
