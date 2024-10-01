@@ -1,12 +1,6 @@
 ## MH-ET LIVE MAX30102 Hartslagsensormodule Pulserectie Bloedzuurstofconcentratatietest voor Arduino Ultra-Low Power
 
 <img src="MAX30102_Photo.jpg" alt="Photo of the component">
-
-<img src="MAX30102_Specs_01.jpg" alt="Photo of the component">
-<img src="MAX30102_Specs_02.jpg" alt="Photo of the component">
-<img src="MAX30102_Specs_03.jpg" alt="Photo of the component">
-<img src="MAX30102_Specs_04.jpg" alt="Photo of the component">
-
 <img src="MAX30102_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
@@ -51,6 +45,12 @@ Applications:
 	•	Embedded systems requiring biometric data collection.
 
 The MH-ET LIVE MAX30102 module is compact, easy to integrate, and ideal for wearable and portable health monitoring solutions. With its I2C interface and low power requirements, it’s a versatile choice for developers interested in biometric sensing.
+
+## specs
+<img src="MAX30102_Specs_01.jpg" alt="Photo of the component">
+<img src="MAX30102_Specs_02.jpg" alt="Photo of the component">
+<img src="MAX30102_Specs_03.jpg" alt="Photo of the component">
+<img src="MAX30102_Specs_04.jpg" alt="Photo of the component">
 
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006579705120.html">https://nl.aliexpress.com/item/1005006579705120.html</a>
