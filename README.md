@@ -50,6 +50,6 @@
 
 
 ## Temperature_Humodity_Pressure (BME280)
-<img src="Pressure Temp Humidity (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="300">
-<a href="Pressure Temp Humidity (BME280)/README.md"> more info...</a>
+<img src="Temperature_Humodity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Temperature_Humodity_Pressure (BME280)/README.md"> more info...</a>
 
