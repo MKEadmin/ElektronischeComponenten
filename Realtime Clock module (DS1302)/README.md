@@ -8,6 +8,9 @@ Realtime_Clock_module
 
 ## Description
 
+## Order
+<a href="https://nl.aliexpress.com/item/1005006627321251.html">https://nl.aliexpress.com/item/1005006627321251.html</a>
+<img src="DS1302_Order.jpg" alt="Photo of the Order">
 
 ## installation libraries
 
