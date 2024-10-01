@@ -91,14 +91,12 @@ The **HW221** DC-DC step-down converter is an affordable, efficient, and highly 
 
 
 ## installation libraries
-
 No python libraries needed to install
 
 
 ## Example code
 
-'''python
-# No python code to read of write specific data
-
-'''
+```python
+# no micropython code to control the module
+```
 
