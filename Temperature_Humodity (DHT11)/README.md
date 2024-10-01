@@ -66,16 +66,37 @@ In summary, the DHT11 is a simple and affordable sensor for measuring temperatur
 
 
 ## Order
-<a href="https://nl.aliexpress.com/item/1005006140674321.html">https://nl.aliexpress.com/item/1005006140674321.html</a>
+<a href="https://nl.aliexpress.com/item/1005003841371951.html">https://nl.aliexpress.com/item/1005003841371951.html</a>
 <img src="DHT11_Order.jpg" alt="Photo of the Order">
 
 ## Wiring to Raspberry Pi Pico
-
 <img src="DHT11_Wiring.jpg" alt="Wiring" >
 
 ## installation libraries
+Copy the next class to the raspberry pico
+```bash
+dht.py
+```
 
-No python libraries needed to install
+## Example code
+```python
+from machine import Pin, I2C
+import utime as time
+from dht import DHT11, InvalidChecksum
+
+PIN_DHT = 28
+pin_dht = Pin(PIN_DHT, Pin.OUT, Pin.PULL_DOWN)
+sensor = DHT11(pin_dht)
+
+while True:
+    time.sleep(5)
+    print(f"Temperature: {sensor.temperature}, Humidity: {sensor.humidity}")
+```
+
+
+
+
+
 
 
 
