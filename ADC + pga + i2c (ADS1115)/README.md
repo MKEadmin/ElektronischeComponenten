@@ -33,8 +33,8 @@ Its high resolution, versatility in input channels, and ease of integration make
 
 
 ## Wiring to Raspberry Pi Pico
-
 <img src="ADS1115_Wiring.jpg" alt="Wiring" >
+<img src="ADS1115_Wiring_01.jpg" alt="Wiring" >
 
 ## installation libraries
 
