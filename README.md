@@ -1,8 +1,22 @@
 # ElektronischeComponenten
 
+## ADC + pga + i2c (ADS1115)
+<img src="ADC + pga + i2c (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="300">
+<a href="ADC + pga + i2c (ADS1115)/README.md"> more info...</a>
+
+
 ## LCD + i2c (Lcd1602)
 <img src="LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="300">
 <a href="LCD + i2c (Lcd1602)/README.md"> more info...</a>
+
+## LevelShifter (HW221)
+<img src="LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="300">
+<a href="LevelShifter (HW221)/README.md"> more info...</a>
+
+
+## Magnetometer (MLX90393)
+<img src="Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Magnetometer (MLX90393)/README.md"> more info...</a>
 
 
 ## Micro SD Card Adapter
@@ -10,31 +24,32 @@
 <a href="Micro SD Card Adapter/README.md"> more info...</a>
 
 
-## Pressure Temp Humidity (BME280)
-<img src="Pressure Temp Humidity (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="300">
-<a href="Pressure Temp Humidity (BME280)/README.md"> more info...</a>
-
 ## Pulse Sensor (MAX30102)
-
-<img src="Pulse Sensor (MAX30102)/MAX30102_Photo.jpeg" alt="Photo of the component" width="300">
+<img src="Pulse Sensor (MAX30102)/MAX30102_Photo.jpg" alt="Photo of the component" width="300">
 <a href="Pulse Sensor (MAX30102)/README.md"> more info...</a>
+
+
+## PWM driver (PCA9685)
+<img src="PWM driver (PCA9685)/PCA9685_Photo.jpg" alt="Photo of the component" width="300">
+<a href="PWM driver (PCA9685)/README.md"> more info...</a>
+
 
 ## Realtime Clock module (DS1302)
 <img src="Realtime Clock module (DS1302)/DS1302_Photo.jpg" alt="Photo of the component" width="300">
 <a href="Realtime Clock module (DS1302)/README.md"> more info...</a>
 
 
-# setup directories
-Componenten daVinci College
+## Temperature (TC74A)
+<img src="Temperature (TC74A)/TC74A_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Temperature (TC74A)/README.md"> more info...</a>
 
-Iedere map heeft de volgende bestanden om de componenten te beschrijven.
 
-<Component nummer>_QR_code.jpg      : Dit is de link naar het component : Created with : https://qrfy.com/ 
+## Temperature_Humodity (DHT11)
+<img src="Temperature_Humodity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Temperature_Humodity (DHT11)/README.md"> more info...</a>
 
-<Component nummer>_Order.jpg        : Doc met daarin de plek waar het component besteld is.
 
-<Component nummer>_Datasheet.jpg    : Datasheet van het component, of van het hoofd component op een breakout board
-
-<Component nummer>_Example.py       : Voorbeeld code om het component te gebruiken in micropython
-
+## Temperature_Humodity_Pressure (BME280)
+<img src="Pressure Temp Humidity (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="300">
+<a href="Pressure Temp Humidity (BME280)/README.md"> more info...</a>
 
