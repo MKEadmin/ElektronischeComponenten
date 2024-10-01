@@ -4,6 +4,13 @@
 <img src="ADC + pga + i2c (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">
 <a href="ADC + pga + i2c (ADS1115)/README.md"> more info...</a>
 
+## Display Matrix (Max7219)
+<img src="Display Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200">
+<a href="Display Matrix (Max7219)/README.md"> more info...</a>
+
+## Display Neopixel (WS2812)
+<img src="Display Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">
+<a href="Display Neopixel (WS2812)/README.md"> more info...</a>
 
 ## LCD + i2c (Lcd1602)
 <img src="LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">
