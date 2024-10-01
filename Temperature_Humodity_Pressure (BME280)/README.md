@@ -1,9 +1,5 @@
 ## BME280 - Tempereture Pressure Humidity sensor
-
 <img src="BME280_Photo.jpg" alt="Photo of the component">
-
-<img src="BME280_Specs_01.jpg" alt="Photo of the component">
-
 <img src="BME280_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
@@ -60,7 +56,7 @@ Applications:
 The BME280 sensor is highly versatile and widely used in projects that require reliable and accurate environmental data. With its ability to measure temperature, humidity, and pressure, it offers a powerful solution for both hobbyists and professionals in fields like meteorology, climatology, and IoT.
 
 ## specs
-
+<img src="BME280_Specs_01.jpg" alt="Photo of the component">
 
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006716811673.html">https://nl.aliexpress.com/item/1005006716811673.html</a>
