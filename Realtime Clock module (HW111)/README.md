@@ -1,6 +1,7 @@
 ## HW111 - Real-Time Clock Module
 
 Real-Time Clock Module
+
 <img src="HW111_Photo.jpg" alt="Photo of the component">
 <img src="HW111_Photo_01.jpg" alt="Photo of the component reverse">
 <img src="HW111_QR_Code.jpg" alt="QR code to this page" width="80" height="80">
