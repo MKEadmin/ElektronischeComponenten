@@ -60,12 +60,9 @@ The **Micro SD Card Adapter Module** for the **Raspberry Pi Pico** is a small an
 
 In summary, the **Micro SD Card Adapter Module** for the Raspberry Pi Pico provides an easy and efficient way to add external storage to your projects. It’s especially useful for data logging, file storage, and media-related applications, allowing you to easily transfer data between your Pico and other devices via a standard micro SD card.
 
-## specs
-
-
 ## Order
-<a href="https://nl.aliexpress.com/item/1005005981296699.html">https://nl.aliexpress.com/item/1005005981296699.html</a>
-<img src="Micro SD Card Adapte_Order.jpg" alt="Photo of the Order">
+<a href="https://nl.aliexpress.com/item/32829798714.html">https://nl.aliexpress.com/item/32829798714.html</a>
+<img src="Micro SD Card Adapter_Order.jpg" alt="Photo of the Order">
 
 ## Wiring to Raspberry Pi Pico
 
@@ -75,8 +72,6 @@ In summary, the **Micro SD Card Adapter Module** for the Raspberry Pi Pico provi
 Copy next files to the Raspberry Pi Pico
 
 ```bash
-pico_i2c_lcd.py
-lcd_api.py
 sdcard.py
 ```
 
