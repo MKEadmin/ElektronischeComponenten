@@ -19,50 +19,50 @@ The DHT11 and DHT22 are both digital temperature and humidity sensors, but they 
 
 1. Temperature Measurement:
 
-	•	DHT11:
-	•	Range: 0°C to 50°C
-	•	Accuracy: ±2°C
-	•	Resolution: 1°C
-	•	DHT22:
-	•	Range: -40°C to 80°C
-	•	Accuracy: ±0.5°C
-	•	Resolution: 0.1°C
+	*	DHT11:
+	*	Range: 0°C to 50°C
+	*	Accuracy: ±2°C
+	*	Resolution: 1°C
+	*	DHT22:
+	*	Range: -40°C to 80°C
+	*	Accuracy: ±0.5°C
+	*	Resolution: 0.1°C
 
 2. Humidity Measurement:
 
-	•	DHT11:
-	•	Range: 20-90% RH
-	•	Accuracy: ±5% RH
-	•	Resolution: 1% RH
-	•	DHT22:
-	•	Range: 0-100% RH
-	•	Accuracy: ±2-5% RH
-	•	Resolution: 0.1% RH
+	*	DHT11:
+	*	Range: 20-90% RH
+	*	Accuracy: ±5% RH
+	*	Resolution: 1% RH
+	*	DHT22:
+	*	Range: 0-100% RH
+	*	Accuracy: ±2-5% RH
+	*	Resolution: 0.1% RH
 
 3. Sampling Rate:
 
-	•	DHT11: Data refreshed every 1 second.
-	•	DHT22: Data refreshed every 2 seconds (slower).
+	*	DHT11: Data refreshed every 1 second.
+	*	DHT22: Data refreshed every 2 seconds (slower).
 
 4. Power Supply:
 
-	•	DHT11: 3.3V to 5.5V
-	•	DHT22: 3.3V to 6V
+	*	DHT11: 3.3V to 5.5V
+	*	DHT22: 3.3V to 6V
 
 5. Price:
 
-	•	DHT11: Cheaper, making it more suitable for budget projects.
-	•	DHT22: More expensive due to higher precision and broader range.
+	*	DHT11: Cheaper, making it more suitable for budget projects.
+	*	DHT22: More expensive due to higher precision and broader range.
 
 6. Size:
 
-	•	DHT11: Smaller and more compact.
-	•	DHT22: Slightly larger.
+	*	DHT11: Smaller and more compact.
+	*	DHT22: Slightly larger.
 
 Summary:
 
-	•	DHT11: Lower accuracy, smaller range, faster response, more affordable.
-	•	DHT22: Higher accuracy, wider range, slower response, more expensive.
+	*	DHT11: Lower accuracy, smaller range, faster response, more affordable.
+	*	DHT22: Higher accuracy, wider range, slower response, more expensive.
 
 In general, the DHT22 is preferred for projects requiring better precision and wider temperature/humidity ranges, while the DHT11 is a good option for simple and low-cost applications.
 
