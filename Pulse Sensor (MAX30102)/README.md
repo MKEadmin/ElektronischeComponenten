@@ -67,3 +67,6 @@ No python libraries needed to install
 
 
 
+## more information
+
+<a href="https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson14_max30102.html"> https://docs.sunfounder.com/projects/umsk/en/latest/04_pi_pico/pico_lesson14_max30102.html<h>
