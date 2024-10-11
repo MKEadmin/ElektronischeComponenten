@@ -53,25 +53,3 @@ class HW111:
 
         # Write the datetime to RTC
         self.i2c.writeto_mem(self.addr, DATETIME_REG, buf)
-
-    def halt(self, val=None):
-        """Halt or resume the clock."""
-        if val is None:
-            return self._halt
-        reg = self.i2c.readfrom_mem(self.addr, DATETIME_REG, 1)[0]
-        if val:
-            reg |= CHIP_HALT
-        else:
-            reg &= ~CHIP_HALT
-        self._halt = bool(val)
-        self.i2c.writeto_mem(self.addr, DATETIME_REG, bytearray([reg]))
-
-    def square_wave(self, sqw=0, out=0):
-        """Control the square wave output on the SQ pin."""
-        rs0 = 1 if sqw in [4, 32] else 0
-        rs1 = 1 if sqw in [8, 32] else 0
-        out = 1 if out > 0 else 0
-        sqw = 1 if sqw > 0 else 0
-        reg = rs0 | (rs1 << 1) | (sqw << 4) | (out << 7)
-        self.i2c.writeto_mem(self.addr, CONTROL_REG, bytearray([reg]))
-
