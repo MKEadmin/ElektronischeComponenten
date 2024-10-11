@@ -75,8 +75,6 @@ In summary, the **Micro SD Card Adapter Module** for the Raspberry Pi Pico provi
 Copy next files to the Raspberry Pi Pico
 
 ```bash
-pico_i2c_lcd.py
-lcd_api.py
 sdcard.py
 ```
 
