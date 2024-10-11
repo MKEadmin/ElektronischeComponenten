@@ -14,27 +14,26 @@ The **DHT22** (also known as **AM2302**) is a low-cost digital sensor widely use
 
 The DHT22 is generally larger and more accurate than its predecessor, the DHT11, particularly in its humidity readings, making it suitable for applications requiring higher precision.
 
-
 The DHT11 and DHT22 are both digital temperature and humidity sensors, but they differ in terms of accuracy, range, and cost. Here’s a comparison:
 
 1. Temperature Measurement:
 
-	*	DHT11:
+	### DHT11:
 	*	Range: 0°C to 50°C
 	*	Accuracy: ±2°C
 	*	Resolution: 1°C
-	*	DHT22:
+	### DHT22:
 	*	Range: -40°C to 80°C
 	*	Accuracy: ±0.5°C
 	*	Resolution: 0.1°C
 
 2. Humidity Measurement:
 
-	*	DHT11:
+	### DHT11:
 	*	Range: 20-90% RH
 	*	Accuracy: ±5% RH
-	*	Resolution: 1% RH
-	*	DHT22:
+	*	Resolution: 1% RH	
+	### DHT22:
 	*	Range: 0-100% RH
 	*	Accuracy: ±2-5% RH
 	*	Resolution: 0.1% RH
