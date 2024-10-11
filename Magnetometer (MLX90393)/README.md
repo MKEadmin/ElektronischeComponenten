@@ -89,7 +89,6 @@ The **MLX90393** is a highly accurate, 3-axis magnetic field sensor that offers 
 
 No python libraries needed to install
 
-## Connecting for example to Raspberry Pico
 
 
 
