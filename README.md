@@ -1,5 +1,11 @@
 # ElektronischeComponenten
 
+|   |   |  
+|---|---|
+|  ## ADC + pga + i2c (ADS1115) |  <img src="ADC + pga + i2c (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200"> | <a href="ADC + pga + i2c (ADS1115)/README.md"> more info...</a>  |
+|   |   | 
+|   |   | 
+
 ## ADC + pga + i2c (ADS1115)
 <img src="ADC + pga + i2c (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">
 <a href="ADC + pga + i2c (ADS1115)/README.md"> more info...</a>
@@ -45,6 +51,9 @@
 <img src="Realtime Clock module (DS1302)/DS1302_Photo.jpg" alt="Photo of the component" width="200">
 <a href="Realtime Clock module (DS1302)/README.md"> more info...</a>
 
+Realtime Clock module (DS1307 or HW111)
+Realtime Clock module (DS3231 or HW084)
+Realtime Clock module (PCF8563)
 
 ## Temperature (TC74)
 <img src="Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">
@@ -59,6 +68,8 @@
 ## Temperature Humidity Pressure (BME280)
 <img src="Temperature_Humidity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">
 <a href="Temperature_Humidity_Pressure (BME280)/README.md"> more info...</a>
+
+Ultrasonic distance sensor (HC-SR04)
 
 ## microController Arduino-UNO
 <img src="microController_Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">
