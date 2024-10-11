@@ -77,7 +77,7 @@ The **MLX90393** is a highly accurate, 3-axis magnetic field sensor that offers 
 
 
 ## Order
-<a href="https://nl.aliexpress.com/item/1005006140674321.html">https://nl.aliexpress.com/item/1005006140674321.html</a>
+<a href="https://nl.aliexpress.com/item/32961567468">https://nl.aliexpress.com/item/32961567468.html</a>
 <img src="MLX90393_Order.jpg" alt="Photo of the Order">
 
 ## Wiring to Raspberry Pi Pico
@@ -88,8 +88,6 @@ The **MLX90393** is a highly accurate, 3-axis magnetic field sensor that offers 
 ## installation libraries
 
 No python libraries needed to install
-
-## Connecting for example to Raspberry Pico
 
 
 

@@ -8,7 +8,7 @@
 |:vomiting_face:| Display Neopixel (WS2812)<hr><a href="Display Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:grinning:| LCD + i2c (Lcd1602) <hr> <a href="LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  <img src="LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  
 ||   |   |  
-|| LevelShifter (HW221) <hr> <a href="LevelShifter (HW221)/README.md"> more info...</a>         |  <img src="LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |
+|:grinning:| LevelShifter (HW221) <hr> <a href="LevelShifter (HW221)/README.md"> more info...</a>         |  <img src="LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |
 || Magnetometer (MLX90393) <hr> <a href="Magnetometer (MLX90393)/README.md"> more info...</a>   |  <img src="Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="200"> |
 || Micro SD Card Adapter <hr> <a href="Micro SD Card Adapter/README.md"> more info...</a>       |  <img src="Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="200"> |
 || Pulse Sensor (MAX30102) <hr> <a href="Pulse Sensor (MAX30102)/README.md"> more info...</a>   | <img src="Pulse Sensor (MAX30102)/MAX30102_Photo.jpg" alt="Photo of the component" width="200"> |
