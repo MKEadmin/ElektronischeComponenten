@@ -81,32 +81,30 @@ lcd_api.py
 
 ## Example code
 ```python
-from machine import I2C, Pin
-from pico_i2c_lcd import I2cLcd
-from time import sleep
+import machine
+import uos
+import sdcard
 
-I2C_ADDR = 0x27 # <Vul hier het adres in>
-NUMBER_OF_ROWS = 2
-NUMBER_OF_COLUMNS = 16
+cs_pin = machine.Pin(17, machine.Pin.OUT)
+spi = machine.SPI(0, baudrate=1000000, polarity=0, phase=0,bits=8, firstbit=machine.SPI.MSB,
+                  sck=machine.Pin(18), mosi=machine.Pin(19), miso=machine.Pin(16))
 
-i2c = I2C(0, sda=Pin(0), scl=Pin(1), freq=400000)
-lcd = I2cLcd(i2c, I2C_ADDR, NUMBER_OF_ROWS, NUMBER_OF_COLUMNS)
+sd = sdcard.SDCard(spi, cs_pin)
 
-lcd.clear()
-lcd.blink_cursor_on()
-lcd.putstr("daVinci")
-lcd.putstr("I2C Address:"+str(I2C_ADDR)+"\n")
+vfs = uos.VfsFat(sd)
+uos.mount(vfs, "/sd")
+fn = "/sd/sdtest.txt"
 
-lcd.blink_cursor_off()
-lcd.clear()
-lcd.putstr("Backlight Test")
-for i in range(10):
-    lcd.backlight_on()
-    sleep(0.2)
-    lcd.backlight_off()
-    sleep(0.2)
-lcd.backlight_on()
-lcd.hide_cursor()
+with open(fn, "w") as f:
+    print("Writing data to file sdtest.txt...")
+    f.write("This is a test for micro SD card\r\n")
+    print("Writing to file completed")
+    
+with open(fn, "r") as f:
+    print("Reading data from file sdtest.txt...")
+    data = f.read()
+    print("Data read completed")
+    print("Data:",data)
 ```
 
 
