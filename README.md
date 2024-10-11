@@ -2,7 +2,7 @@
 
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-||  ADC + pga + i2c (ADS1115) <hr><a href="ADC + pga + i2c (ADS1115)/README.md"> more info...</a>|  <img src="ADC + pga + i2c (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |
+|:grinning:|  ADC + pga + i2c (ADS1115) <hr><a href="ADC + pga + i2c (ADS1115)/README.md"> more info...</a>|  <img src="ADC + pga + i2c (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |
 ||   |   |  
 || Display Matrix (Max7219)  <hr><a href="Display Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
 || Display Neopixel (WS2812)<hr><a href="Display Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
