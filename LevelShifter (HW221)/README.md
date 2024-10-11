@@ -79,8 +79,6 @@ If you have a **12V power supply** but your project requires **5V**, you can use
 ### In Summary:
 The **HW221** DC-DC step-down converter is an affordable, efficient, and highly versatile module, ideal for stepping down higher input voltages to power lower-voltage devices. It’s widely used in electronics projects for microcontroller power regulation, battery-powered systems, and other low-power applications. With its adjustable output voltage and high efficiency, the HW221 is a go-to solution for projects that require stable voltage from a variable or high-voltage power source.
 
-## specs
-
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006140674321.html">https://nl.aliexpress.com/item/1005006140674321.html</a>
 <img src="HW221_Order.jpg" alt="Photo of the Order">
@@ -88,6 +86,7 @@ The **HW221** DC-DC step-down converter is an affordable, efficient, and highly 
 ## Wiring to Raspberry Pi Pico
 
 <img src="HW221_Wiring.jpg" alt="Wiring" >
+<img src="HW221_Wiring_01.jpg" alt="Wiring" >
 
 
 ## installation libraries
