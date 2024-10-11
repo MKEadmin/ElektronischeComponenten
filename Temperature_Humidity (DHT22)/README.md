@@ -67,9 +67,8 @@ Summary:
 In general, the DHT22 is preferred for projects requiring better precision and wider temperature/humidity ranges, while the DHT11 is a good option for simple and low-cost applications.
 
 
-
 ## Order
-<a href="https://nl.aliexpress.com/item/1005003841371951.html">https://nl.aliexpress.com/item/1005003841371951.html</a>
+<a href="https://nl.aliexpress.com/item/1005007244385551.html">https://nl.aliexpress.com/item/1005007244385551.html</a>
 <img src="DHT22_Order.jpg" alt="Photo of the Order">
 
 ## Wiring to Raspberry Pi Pico
