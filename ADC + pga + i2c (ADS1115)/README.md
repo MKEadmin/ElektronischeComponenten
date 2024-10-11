@@ -35,7 +35,6 @@ https://nl.aliexpress.com/item/1005006143923238.html?spm=a2g0o.productlist.main.
 
 ## Wiring to Raspberry Pi Pico
 <img src="ADS1115_Wiring.jpg" alt="Wiring" >
-<img src="ADS1115_Wiring_01.jpg" alt="Wiring" >
 
 ## Installation libraries
 Copy next files to the Raspberry Pi Pico
