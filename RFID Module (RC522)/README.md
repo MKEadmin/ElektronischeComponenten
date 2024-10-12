@@ -26,6 +26,9 @@ Copy next files to the Raspberry Pi Pico
 
 ```
 
+## More Information
+https://www.youtube.com/watch?v=hV9GTqXLMpg
+https://www.youtube.com/watch?v=blW7QlMOhh8
 
 
 
