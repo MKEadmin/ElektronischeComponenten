@@ -1,12 +1,25 @@
-
-Realtime Clock module (DS1307 or HW111)/.DS_Store
 .DS_Store
-Display Matrix (Max7219)/.DS_Store
+ADC + pga + i2c (ADS1115)/.DS_Store
+ColorSensor (GY-31 TCS230 TCS3200)/.DS_Store
 Display Matrix (Max7219)/.DS_Store
 Display Neopixel (WS2812)/.DS_Store
+LCD + i2c (Lcd1602)/.DS_Store
+LevelShifter (HW221)/.DS_Store
+Magnetometer (MLX90393)/.DS_Store
+Micro SD Card Adapter/.DS_Store
+microController_Arduino-UNO/.DS_Store
+microController_Raspberry-Pi-Pico/.DS_Store
+microController_WeMos/.DS_Store
+Pulse Sensor (MAX30102)/.DS_Store
+PWM driver (PCA9685)/.DS_Store
+Realtime Clock module (DS1302)/.DS_Store
+Realtime Clock module (DS1307 or HW111)/.DS_Store
 Realtime Clock module (DS3231 or HW084)/.DS_Store
 Realtime Clock module (PCF8563)/.DS_Store
+RFID Module (RC522)/.DS_Store
+Temperature (TC74)/.DS_Store
+Temperature_Humidity (DHT11)/.DS_Store
+Temperature_Humidity (DHT22)/.DS_Store
+Temperature_Humidity_Pressure (BME280)/.DS_Store
 Ultrasonic distance sensor (HC-SR04)/.DS_Store
-/Ultrasonic distance sensor (HC-SR04)
-/Realtime Clock module (PCF8563)
-.DS_Store
+
