@@ -2,7 +2,7 @@
 
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:grinning:| ADC (ADS1115) <hr><a href="ADC (ADS1115)/README.md"> more info...</a>|  <img src="ADC(ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |
+|:grinning:| ADC (ADS1115) <hr><a href="ADC (ADS1115)/README.md"> more info...</a>|  <img src="ADC (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |
 |:vomiting_face:| Bluetooth Transceiver (HC-05)<hr><a href="Bluetooth Transceiver (HC-05)/README.md"> more info...</a>|  <img src="Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| Capacitieve Touch Button (HW139)<hr><a href="Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  <img src="ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |  
