@@ -3,6 +3,7 @@
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
 |:grinning:| ADC + pga + i2c (ADS1115) <hr><a href="ADC + pga + i2c (ADS1115)/README.md"> more info...</a>|  <img src="ADC + pga + i2c (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |
+|:vomiting_face:| Capacitieve Touch Button (HW139) <hr><a href="Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  <img src="ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| Display Matrix (Max7219)  <hr><a href="Display Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| Display Neopixel (WS2812)<hr><a href="Display Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
