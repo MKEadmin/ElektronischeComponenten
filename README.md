@@ -1,4 +1,4 @@
-# ElektronischeComponenten
+# Elektronische Componenten
 
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
@@ -29,7 +29,11 @@
 |:vomiting_face:| Temperature Humidity Pressure (BME280) <hr> <a href="Temperature_Humidity_Pressure (BME280)/README.md"> more info...</a> | <img src="Temperature_Humidity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Time-of-Flight (VL53L0X) <hr> <a href="Time-of-Flight (VL53L0X)/README.md"> more info...</a> | <img src="Time-of-Flight (VL53L0X)/VL53L0X_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Ultrasonic distance sensor (HC-SR04) <hr> <a href="Ultrasonic distance sensor (HC-SR04)/README.md"> more info...</a> | <img src="Ultrasonic distance sensor (HC-SR04)/HC-SR04_Photo.jpg" alt="Photo of the component" width="200">|
-||||
+
+# microController
+
+|:vomiting_face: :grinning: | Component  | Picture | 
+|:--:|:---:|:---:|
 |:vomiting_face:| microController Arduino-UNO <hr> <a href="microController_Arduino-UNO/README.md"> more info...</a> | <img src="microController_Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| microController Raspberry Pi Pico <hr> <a href="microController_Raspberry-Pi-Pico/README.md"> more info...</a> | <img src="microController_Raspberry-Pi-Pico/Pico-R3-A4-Pinout.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| microController WeMos <hr> <a href="microController_WeMos/README.md"> more info...</a> | <img src="microController_WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">|
