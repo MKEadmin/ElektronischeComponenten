@@ -1,4 +1,4 @@
-## ADC + pga + i2c (ADS1115)
+## ADC (ADS1115)
 
 <img src="ADS1115_Photo.jpg" alt="Photo of the component">
 <img src="ADS1115_QR_code.jpg" alt="QR code to this page" width="80" height="80">
@@ -28,8 +28,7 @@ Its high resolution, versatility in input channels, and ease of integration make
 ## specs
 
 ## Order
-<a href="https://nl.aliexpress.com/item/1005006143923238.html?spm=a2g0o.productlist.main.17.30524e80HHnUPP&algo_pvid=6444441e-3ccd-48ef-85c6-f7bdc70c11a1&algo_exp_id=6444441e-3ccd-48ef-85c6-f7bdc70c11a1-8&pdp_npi=4%40dis%21EUR%215.29%210.93%21%21%2140.00%216.98%21%40211b617b17286425006982103e3b98%2112000035958222685%21sea%21NL%210%21ABX&curPageLogUid=J7oHnu2JSj1V&utparam-url=scene%3Asearch%7Cquery_from%3A&_gl=1*hj0tn4*_ga*ODc3MDYwNzUzLjE3Mjg2NDI1MDI.*_ga_VED1YSGNC7*MTcyODY0MjUwMS4xLjAuMTcyODY0MjUwMy42MC4wLjA.*_gcl_au*MTA4ODE1MzMzNS4xNzI4NjQyNTA0">
-https://nl.aliexpress.com/item/1005006143923238.html?spm=a2g0o.productlist.main.17.30524e80HHnUPP&algo_pvid=6444441e-3ccd-48ef-85c6-f7bdc70c11a1&algo_exp_id=6444441e-3ccd-48ef-85c6-f7bdc70c11a1-8&pdp_npi=4%40dis%21EUR%215.29%210.93%21%21%2140.00%216.98%21%40211b617b17286425006982103e3b98%2112000035958222685%21sea%21NL%210%21ABX&curPageLogUid=J7oHnu2JSj1V&utparam-url=scene%3Asearch%7Cquery_from%3A&_gl=1*hj0tn4*_ga*ODc3MDYwNzUzLjE3Mjg2NDI1MDI.*_ga_VED1YSGNC7*MTcyODY0MjUwMS4xLjAuMTcyODY0MjUwMy42MC4wLjA.*_gcl_au*MTA4ODE1MzMzNS4xNzI4NjQyNTA0</a>
+<a href="https://nl.aliexpress.com/item/1005006143923238.html">https://nl.aliexpress.com/item/1005006143923238.htm</a>
 <img src="ADS1115_Order.jpg" alt="Photo of the Order">
 
 
