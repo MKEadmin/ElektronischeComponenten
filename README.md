@@ -7,10 +7,13 @@
 |:vomiting_face:| Capacitieve Touch Button (HW139)<hr><a href="Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  <img src="ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| DAC (MCP4725) <hr><a href="DAC (MCP4725)/README.md"> more info...</a>|  <img src="DAC (MCP4725)/MCP4725_Photo.jpg" alt="Photo of the component" width="200">  |
+|:vomiting_face:| DC-DC Step-Up Converter (MT3608) <hr><a href="DC-DC Step-Up Converter (MT3608)/README.md"> more info...</a>|  <img src="DC-DC Step-Up Converter (MT3608)/MT3608_Photo.jpg" alt="Photo of the component" width="200">  |
 |:vomiting_face:| Display Matrix (Max7219)  <hr><a href="Display Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| Display Neopixel (WS2812)<hr><a href="Display Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:| Infrared Sensor (HW201)<hr><a href="Infrared Sensor (HW201)/README.md"> more info...</a> |  <img src="Infrared Sensor (HW201)/HW201_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:grinning:| LCD + i2c (Lcd1602) <hr> <a href="LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  <img src="LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  
+|:vomiting_face:| LED 7-Segment (HT16K33)<hr><a href=LED 7-Segment (HT16K33)/README.md"> more info...</a>|  <img src="LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |
+|:vomiting_face:| LED RGB (WS2812) <hr><a href=LED RGB (WS2812)/README.md"> more info...</a>|  <img src="LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |
 ||   |   |  
 |:grinning:| LevelShifter (HW221) <hr> <a href="LevelShifter (HW221)/README.md"> more info...</a>         |  <img src="LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| Magnetometer (MLX90393) <hr> <a href="Magnetometer (MLX90393)/README.md"> more info...</a>   |  <img src="Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="200"> |
