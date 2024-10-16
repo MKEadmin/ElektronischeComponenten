@@ -11,6 +11,7 @@
 |:grinning:| Display LCD + i2c (Lcd1602) <hr> <a href="Display LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  <img src="Display LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| Display Matrix (Max7219)  <hr><a href="Display Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| Display Neopixel (WS2812)<hr><a href="Display Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
+|:vomiting_face:|Gyroscope Accelerometer (BMI160)<hr><a href="Gyroscope Accelerometer (BMI160)/README.md"> more info...</a> |  <img src="Gyroscope Accelerometer (BMI160)/BMI160_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:| Infrared Sensor (HW201)<hr><a href="Infrared Sensor (HW201)/README.md"> more info...</a> |  <img src="Infrared Sensor (HW201)/HW201_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:| LED 7-Segment (HT16K33)<hr><a href="LED 7-Segment (HT16K33)/README.md"> more info...</a>|  <img src="LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |
 |:vomiting_face:| LED RGB (WS2812) <hr><a href="LED RGB (WS2812)/README.md"> more info...</a>|  <img src="LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |
@@ -26,6 +27,10 @@
 |:vomiting_face:| Realtime Clock module (DS3231 or HW084) <hr> <a href="Realtime Clock module (DS3231 or HW084)/README.md"> more info...</a> | <img src="Realtime Clock module (DS3231 or HW084)/DS3231_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| Realtime Clock module (PCF8563)         <hr> <a href="Realtime Clock module (PCF8563)/README.md"> more info...</a> | <img src="Realtime Clock module (PCF8563)/PCF8563_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| RFID Module (RC522) <hr> <a href="RFID Module (RC522)/README.md"> more info...</a> | <img src="RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Servo Motor (SG90)<hr> <a href="Servo Motor (SG90)/README.md"> more info...</a> | <img src="Servo Motor (SG90)/SG90_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Switch Keypad Hard<hr> <a href="Switch Keypad Hard/README.md"> more info...</a> | <img src="Switch Keypad Hard/Switch Keypad Hard_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Switch Keypad Membraam<hr> <a href="Switch Keypad Membraam/README.md"> more info...</a> | <img src="Switch Keypad Membraam/Switch Keypad Membraam_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Switch Rotery (RS1010)<hr> <a href="Switch Rotery (RS1010)/README.md"> more info...</a> | <img src="Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Temperature (TC74) <hr> <a href="Temperature (TC74)/README.md"> more info...</a> | <img src="Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:| Temperature Humidity (DHT11) <hr> <a href="Temperature_Humidity (DHT11)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:| Temperature Humidity (DHT22) <hr> <a href="Temperature_Humidity (DHT22)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|
