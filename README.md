@@ -27,6 +27,7 @@
 |:vomiting_face:| Realtime Clock module (PCF8563)         <hr> <a href="Realtime Clock module (PCF8563)/README.md"> more info...</a> | <img src="Realtime Clock module (PCF8563)/PCF8563_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| RFID Module (RC522) <hr> <a href="RFID Module (RC522)/README.md"> more info...</a> | <img src="RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Servo Motor (SG90)<hr> <a href="Servo Motor (SG90)/README.md"> more info...</a> | <img src="Servo Motor (SG90)/SG90_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Switch Button<hr><a href="Switch Button/README.md"> more info...</a>|  <img src="Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Capacitieve Touch Button (HW139)<hr><a href="Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Keypad Hard<hr> <a href="Switch Keypad Hard/README.md"> more info...</a> | <img src="Switch Keypad Hard/Switch Keypad Hard_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Switch Keypad Membraam<hr> <a href="Switch Keypad Membraam/README.md"> more info...</a> | <img src="Switch Keypad Membraam/Switch Keypad Membraam_Photo.jpg" alt="Photo of the component" width="200">|
