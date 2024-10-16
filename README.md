@@ -4,7 +4,6 @@
 |:--:|:---:|:---:|
 |:grinning:| ADC (ADS1115) <hr><a href="ADC (ADS1115)/README.md"> more info...</a>|  <img src="ADC (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |
 |:vomiting_face:| Bluetooth Transceiver (HC-05)<hr><a href="Bluetooth Transceiver (HC-05)/README.md"> more info...</a>|  <img src="Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:vomiting_face:| Capacitieve Touch Button (HW139)<hr><a href="Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  <img src="ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| DAC (MCP4725) <hr><a href="DAC (MCP4725)/README.md"> more info...</a>|  <img src="DAC (MCP4725)/MCP4725_Photo.jpg" alt="Photo of the component" width="200">  |
 |:vomiting_face:| DC-DC Step-Up Converter (MT3608) <hr><a href="DC-DC Step-Up Converter (MT3608)/README.md"> more info...</a>|  <img src="DC-DC Step-Up Converter (MT3608)/MT3608_Photo.jpg" alt="Photo of the component" width="200">  |
@@ -28,6 +27,7 @@
 |:vomiting_face:| Realtime Clock module (PCF8563)         <hr> <a href="Realtime Clock module (PCF8563)/README.md"> more info...</a> | <img src="Realtime Clock module (PCF8563)/PCF8563_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| RFID Module (RC522) <hr> <a href="RFID Module (RC522)/README.md"> more info...</a> | <img src="RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Servo Motor (SG90)<hr> <a href="Servo Motor (SG90)/README.md"> more info...</a> | <img src="Servo Motor (SG90)/SG90_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Switch Capacitieve Touch Button (HW139)<hr><a href="Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Keypad Hard<hr> <a href="Switch Keypad Hard/README.md"> more info...</a> | <img src="Switch Keypad Hard/Switch Keypad Hard_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Switch Keypad Membraam<hr> <a href="Switch Keypad Membraam/README.md"> more info...</a> | <img src="Switch Keypad Membraam/Switch Keypad Membraam_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Switch Rotery (RS1010)<hr> <a href="Switch Rotery (RS1010)/README.md"> more info...</a> | <img src="Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|
