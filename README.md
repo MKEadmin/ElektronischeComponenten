@@ -31,6 +31,8 @@
 |:grinning:| Temperature Humidity (DHT22) <hr> <a href="Temperature_Humidity (DHT22)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Temperature Humidity Pressure (BME280) <hr> <a href="Temperature_Humidity_Pressure (BME280)/README.md"> more info...</a> | <img src="Temperature_Humidity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Time-of-Flight (VL53L0X) <hr> <a href="Time-of-Flight (VL53L0X)/README.md"> more info...</a> | <img src="Time-of-Flight (VL53L0X)/VL53L0X_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Transistor (BD135)<hr> <a href="Transistor (BD135)/README.md"> more info...</a> | <img src="Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Transistor (BD136)<hr> <a href="Transistor (BD136)/README.md"> more info...</a> | <img src="Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Ultrasonic distance sensor (HC-SR04) <hr> <a href="Ultrasonic distance sensor (HC-SR04)/README.md"> more info...</a> | <img src="Ultrasonic distance sensor (HC-SR04)/HC-SR04_Photo.jpg" alt="Photo of the component" width="200">|
 
 # microController
