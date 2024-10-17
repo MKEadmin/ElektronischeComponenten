@@ -11,6 +11,8 @@
 |:vomiting_face:| Display Matrix (Max7219)  <hr><a href="Display Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| Display Neopixel (WS2812)<hr><a href="Display Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:| Display Oled (SSD1306)<hr><a href="Display Oled (SSD1306)/README.md"> more info...</a> |  <img src="Display Oled (SSD1306)/SSD1306_Photo.jpg" alt="Photo of the component" width="200"> |  
+|:vomiting_face:| Distance Time-of-Flight (VL53L0X) <hr> <a href="Distance Time-of-Flight (VL53L0X)/README.md"> more info...</a> | <img src="Distance Time-of-Flight (VL53L0X)/VL53L0X_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| Distance Ultrasonic sensor (HC-SR04) <hr> <a href="Distance Ultrasonic sensor (HC-SR04)/README.md"> more info...</a> | <img src="Distance Ultrasonic sensor (HC-SR04)/HC-SR04_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Gyroscope Accelerometer (BMI160)<hr><a href="Gyroscope Accelerometer (BMI160)/README.md"> more info...</a> |  <img src="Gyroscope Accelerometer (BMI160)/BMI160_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:| Infrared Sensor (HW201)<hr><a href="Infrared Sensor (HW201)/README.md"> more info...</a> |  <img src="Infrared Sensor (HW201)/HW201_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:| LED 7-Segment (HT16K33)<hr><a href="LED 7-Segment (HT16K33)/README.md"> more info...</a>|  <img src="LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |
@@ -22,13 +24,13 @@
 |:vomiting_face:| PIR Module (HC-SR501)<hr><a href="PIR Module (HC-SR501)/README.md"> more info...</a>|  <img src="PIR Module (HC-SR501)/HC-SR501_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| Power Jack (PJ-002A)<hr><a href="Power Jack (PJ-002A)/README.md"> more info...</a>|  <img src="Power Jack (PJ-002A)/PJ-002A_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| Pulse Sensor (MAX30102) <hr> <a href="Pulse Sensor (MAX30102)/README.md"> more info...</a>   | <img src="Pulse Sensor (MAX30102)/MAX30102_Photo.jpg" alt="Photo of the component" width="200"> |
-|:vomiting_face:| PWM driver (PCA9685) <hr> <a href="PWM driver (PCA9685)/README.md"> more info...</a> | <img src="PWM driver (PCA9685)/PCA9685_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| Realtime Clock module (DS1302) <hr> <a href="Realtime Clock module (DS1302)/README.md"> more info...</a> | <img src="Realtime Clock module (DS1302)/DS1302_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| Realtime Clock module (DS1307 or HW111) <hr> <a href="Realtime Clock module (DS1307 or HW111)/README.md"> more info...</a> | <img src="Realtime Clock module (DS1307 or HW111)/HW111_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| Realtime Clock module (DS3231 or HW084) <hr> <a href="Realtime Clock module (DS3231 or HW084)/README.md"> more info...</a> | <img src="Realtime Clock module (DS3231 or HW084)/DS3231_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| Realtime Clock module (PCF8563)         <hr> <a href="Realtime Clock module (PCF8563)/README.md"> more info...</a> | <img src="Realtime Clock module (PCF8563)/PCF8563_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| RFID Module (RC522) <hr> <a href="RFID Module (RC522)/README.md"> more info...</a> | <img src="RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Servo Motor (SG90)<hr> <a href="Servo Motor (SG90)/README.md"> more info...</a> | <img src="Servo Motor (SG90)/SG90_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| Servo Motor Driver Board (PCA9685) <hr> <a href="Servo Motor Driver Board (PCA9685)/README.md"> more info...</a> | <img src="Servo Motor Driver Board (PCA9685)/PCA9685_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:|Switch Button<hr><a href="Switch Button/README.md"> more info...</a>|  <img src="Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Capacitieve Touch Button (HW139)<hr><a href="Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Keypad Hard<hr> <a href="Switch Keypad Hard/README.md"> more info...</a> | <img src="Switch Keypad Hard/Switch Keypad Hard_Photo.jpg" alt="Photo of the component" width="200">|
@@ -38,10 +40,8 @@
 |:grinning:| Temperature Humidity (DHT11) <hr> <a href="Temperature_Humidity (DHT11)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:| Temperature Humidity (DHT22) <hr> <a href="Temperature_Humidity (DHT22)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Temperature Humidity Pressure (BME280) <hr> <a href="Temperature_Humidity_Pressure (BME280)/README.md"> more info...</a> | <img src="Temperature_Humidity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| Time-of-Flight (VL53L0X) <hr> <a href="Time-of-Flight (VL53L0X)/README.md"> more info...</a> | <img src="Time-of-Flight (VL53L0X)/VL53L0X_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Transistor (BD135)<hr> <a href="Transistor (BD135)/README.md"> more info...</a> | <img src="Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Transistor (BD136)<hr> <a href="Transistor (BD136)/README.md"> more info...</a> | <img src="Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| Ultrasonic distance sensor (HC-SR04) <hr> <a href="Ultrasonic distance sensor (HC-SR04)/README.md"> more info...</a> | <img src="Ultrasonic distance sensor (HC-SR04)/HC-SR04_Photo.jpg" alt="Photo of the component" width="200">|
 
 # microController
 
