@@ -1,26 +1,35 @@
-from machine import I2C, Pin
-import time
-import bme280  # Assuming you've uploaded a 'bme280.py' driver file
+# Complete project details at https://RandomNerdTutorials.com/raspberry-pi-pico-bme280-micropython/
 
-# Initialize I2C interface
-i2c = I2C(0, scl=Pin(5), sda=Pin(4), freq=100000)
+from machine import Pin, I2C
+from time import sleep
+import BME280
 
-# Initialize BME280 sensor
-sensor = bme280.BME280(i2c=i2c)
+# Initialize I2C communication
+i2c = I2C(id=0, scl=Pin(1), sda=Pin(0), freq=40000)
 
 while True:
-    # Read temperature, pressure, and humidity
-    temperature, pressure, humidity = sensor.read_compensated_data()
+    try:
+        # Initialize BME280 sensor
+        bme = BME280.BME280(i2c=i2c)
+        
+        # Read sensor data
+        tempC = bme.temperature
+        hum = bme.read_raw_humidity()
+        pres = bme.pressure
+        
+        # Convert temperature to fahrenheit
+        tempF = (bme.read_temperature()/100) * (9/5) + 32
+        tempF = str(round(tempF, 2)) + 'F'
+        
+        # Print sensor readings
+        print('Temperature: ', tempC)
+        print('Temperature: ', tempF)
+        print('Humidity: ', hum)
+        print('Pressure: ', pres)
+        
+    except Exception as e:
+        # Handle any exceptions during sensor reading
+        print('An error occurred:', e)
 
-    # Convert temperature to Celsius
-    temperature = temperature / 100
-    pressure = pressure / 256  # Convert pressure to hPa
-    humidity = humidity / 1024  # Convert humidity to percentage
+    sleep(5)
 
-    # Print values
-    print("Temperature: {:.2f}°C".format(temperature))
-    print("Pressure: {:.2f} hPa".format(pressure))
-    print("Humidity: {:.2f}%".format(humidity))
-
-    # Sleep for 1 second before the next read
-    time.sleep(1)
