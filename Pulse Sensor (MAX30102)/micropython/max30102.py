@@ -18,7 +18,7 @@ from machine import SoftI2C
 from ustruct import unpack
 from utime import sleep_ms, ticks_diff, ticks_ms
 
-from max30102.circular_buffer import CircularBuffer
+from circular_buffer import CircularBuffer
 
 # I2C address (7-bit address)
 MAX3010X_I2C_ADDRESS = 0x57  # Right-shift of 0xAE, 0xAF
@@ -559,8 +559,10 @@ class MAX30102(object):
 
     # Low-level I2C Communication
     def i2c_read_register(self, REGISTER, n_bytes=1):
+        print(REGISTER)
         self._i2c.writeto(self.i2c_address, bytearray([REGISTER]))
-        return self._i2c.readfrom(self.i2c_address, n_bytes)
+        data = self._i2c.readfrom(self.i2c_address, n_bytes)
+        return data
 
     def i2c_set_register(self, REGISTER, VALUE):
         self._i2c.writeto(self.i2c_address, bytearray([REGISTER, VALUE]))
