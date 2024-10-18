@@ -14,6 +14,7 @@
 |:vomiting_face:| Distance Time-of-Flight (VL53L0X) <hr> <a href="Distance Time-of-Flight (VL53L0X)/README.md"> more info...</a> | <img src="Distance Time-of-Flight (VL53L0X)/VL53L0X_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Distance Ultrasonic sensor (HC-SR04) <hr> <a href="Distance Ultrasonic sensor (HC-SR04)/README.md"> more info...</a> | <img src="Distance Ultrasonic sensor (HC-SR04)/HC-SR04_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Gyroscope Accelerometer (BMI160)<hr><a href="Gyroscope Accelerometer (BMI160)/README.md"> more info...</a> |  <img src="Gyroscope Accelerometer (BMI160)/BMI160_Photo.jpg" alt="Photo of the component" width="200"> |  
+|:vomiting_face:|Gyroscope Accelerometer (MPU6050)<hr><a href="Gyroscope Accelerometer (MPU6050)/README.md"> more info...</a> |  <img src="Gyroscope Accelerometer (MPU6050)/MPU6050_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:| Infrared Sensor (HW201)<hr><a href="Infrared Sensor (HW201)/README.md"> more info...</a> |  <img src="Infrared Sensor (HW201)/HW201_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:| LED 7-Segment (HT16K33)<hr><a href="LED 7-Segment (HT16K33)/README.md"> more info...</a>|  <img src="LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |
 |:vomiting_face:| LED RGB (WS2812) <hr><a href="LED RGB (WS2812)/README.md"> more info...</a>|  <img src="LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |
