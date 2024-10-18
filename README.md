@@ -37,10 +37,10 @@
 |:vomiting_face:|Switch Keypad Membraam<hr> <a href="Switch Keypad Membraam/README.md"> more info...</a> | <img src="Switch Keypad Membraam/Switch Keypad Membraam_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Switch Rotery (RS1010)<hr> <a href="Switch Rotery (RS1010)/README.md"> more info...</a> | <img src="Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Temperature (TC74) <hr> <a href="Temperature (TC74)/README.md"> more info...</a> | <img src="Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">|
-|:grinning:| Temperature Humidity (DHT11) <hr> <a href="Temperature_Humidity (DHT11)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|
-|:grinning:| Temperature Humidity (DHT22) <hr> <a href="Temperature_Humidity (DHT22)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| Temperature Humidity Pressure (BME280) <hr> <a href="Temperature_Humidity_Pressure (BME280)/README.md"> more info...</a> | <img src="Temperature_Humidity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| Temperature Humidity Pressure (Si7021) <hr> <a href="Temperature_Humidity_Pressure (SI7021)/README.md"> more info...</a> | <img src="Temperature_Humidity_Pressure (SI7021)/SI7021_Photo.jpg" alt="Photo of the component" width="200">|
+|:grinning:| Temperature Humidity (DHT11) <hr> <a href="Temperature Humidity (DHT11)/README.md"> more info...</a> | <img src="Temperature Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|
+|:grinning:| Temperature Humidity (DHT22) <hr> <a href="Temperature Humidity (DHT22)/README.md"> more info...</a> | <img src="Temperature Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| Temperature Humidity Pressure (BME280) <hr> <a href="Temperature Humidity Pressure (BME280)/README.md"> more info...</a> | <img src="Temperature Humidity Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| Temperature Humidity Pressure (Si7021) <hr> <a href="Temperature Humidity Pressure (SI7021)/README.md"> more info...</a> | <img src="Temperature Humidity Pressure (SI7021)/SI7021_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Transistor (BD135)<hr> <a href="Transistor (BD135)/README.md"> more info...</a> | <img src="Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Transistor (BD136)<hr> <a href="Transistor (BD136)/README.md"> more info...</a> | <img src="Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|
 
