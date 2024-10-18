@@ -48,8 +48,9 @@
 
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:vomiting_face:| microController Arduino-UNO <hr> <a href="microController_Arduino-UNO/README.md"> more info...</a> | <img src="microController_Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| microController Raspberry Pi Pico <hr> <a href="microController_Raspberry-Pi-Pico/README.md"> more info...</a> | <img src="microController_Raspberry-Pi-Pico/Pico-R3-A4-Pinout.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| microController WeMos <hr> <a href="microController_WeMos/README.md"> more info...</a> | <img src="microController_WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| microComputer Raspberry-Pi<hr> <a href="microComputer Raspberry-Pi/README.md"> more info...</a> | <img src="microComputer Raspberry-Pi/RaspberryPi_Pinout.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| microController Arduino-UNO <hr> <a href="microController Arduino-UNO/README.md"> more info...</a> | <img src="microController Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| microController Raspberry Pi Pico <hr> <a href="microController Raspberry-Pico/README.md"> more info...</a> | <img src="microController Raspberry-Pico/Pico-R3-A4-Pinout.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| microController WeMos <hr> <a href="microController WeMos/README.md"> more info...</a> | <img src="microController WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">|
 
 
