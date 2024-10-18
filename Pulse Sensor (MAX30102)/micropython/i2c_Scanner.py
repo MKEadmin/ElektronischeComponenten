@@ -1,5 +1,5 @@
 import machine
-i2c = machine.I2C(id=0, scl=machine.Pin(1), sda=machine.Pin(0))
+i2c = machine.I2C(id=0, scl=machine.Pin(21), sda=machine.Pin(20))
 devices = i2c.scan()
 
 print('Scan i2c bus...')
