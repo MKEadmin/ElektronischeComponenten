@@ -37,11 +37,11 @@ number_of_modules_y = 1
 _width  = number_of_modules_x * PIXELS_MODULE_WIDTH
 _height = number_of_modules_y * PIXELS_MODULE_HEIGHT
 
-spi = SPI(PSI_CHANNEL, sck=Pin(pin_sck), mosi=Pin(pin_mosi))
-cs = Pin(pin_cs, Pin.OUT)
+spi = SPI(PSI_CHANNEL, sck=Pin(_pin_sck), mosi=Pin(_pin_mosi))
+cs = Pin(_pin_cs, Pin.OUT)
 display = Matrix8x8(spi, cs, number_of_modules_x * number_of_modules_y)
 display.brightness(_brightness)
 
-display.text("Hoi", 2, 1)
+display.text("hoi", 2, 1)
 display.show()
 
