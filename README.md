@@ -23,7 +23,6 @@
 |:vomiting_face:| Micro SD Card Adapter <hr> <a href="Micro SD Card Adapter/README.md"> more info...</a>       |  <img src="Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| PIR Module (HC-SR501)<hr><a href="PIR Module (HC-SR501)/README.md"> more info...</a>|  <img src="PIR Module (HC-SR501)/HC-SR501_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| Power Jack (PJ-002A)<hr><a href="Power Jack (PJ-002A)/README.md"> more info...</a>|  <img src="Power Jack (PJ-002A)/PJ-002A_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:vomiting_face:| Pulse Sensor (MAX30102) <hr> <a href="Pulse Sensor (MAX30102)/README.md"> more info...</a>   | <img src="Pulse Sensor (MAX30102)/MAX30102_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| Realtime Clock module (DS1302) <hr> <a href="Realtime Clock module (DS1302)/README.md"> more info...</a> | <img src="Realtime Clock module (DS1302)/DS1302_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| Realtime Clock module (DS1307 or HW111) <hr> <a href="Realtime Clock module (DS1307 or HW111)/README.md"> more info...</a> | <img src="Realtime Clock module (DS1307 or HW111)/HW111_Photo.jpg" alt="Photo of the component" width="200">
 |:vomiting_face:| Realtime Clock module (DS3231 or HW084) <hr> <a href="Realtime Clock module (DS3231 or HW084)/README.md"> more info...</a> | <img src="Realtime Clock module (DS3231 or HW084)/DS3231_Photo.jpg" alt="Photo of the component" width="200">
