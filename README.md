@@ -40,6 +40,7 @@
 |:grinning:| Temperature Humidity (DHT11) <hr> <a href="Temperature_Humidity (DHT11)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:| Temperature Humidity (DHT22) <hr> <a href="Temperature_Humidity (DHT22)/README.md"> more info...</a> | <img src="Temperature_Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:| Temperature Humidity Pressure (BME280) <hr> <a href="Temperature_Humidity_Pressure (BME280)/README.md"> more info...</a> | <img src="Temperature_Humidity_Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| Temperature Humidity Pressure (Si7021) <hr> <a href="Temperature_Humidity_Pressure (SI7021)/README.md"> more info...</a> | <img src="Temperature_Humidity_Pressure (SI7021)/SI7021_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Transistor (BD135)<hr> <a href="Transistor (BD135)/README.md"> more info...</a> | <img src="Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Transistor (BD136)<hr> <a href="Transistor (BD136)/README.md"> more info...</a> | <img src="Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|
 
