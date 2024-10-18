@@ -1,4 +1,4 @@
-## HW111 - Real-Time Clock Module
+## Realtime Clock module (DS1307 or HW111)
 
 Real-Time Clock Module
 
