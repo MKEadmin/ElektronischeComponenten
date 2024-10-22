@@ -43,8 +43,8 @@
 |:vomiting_face:|Servo Motor Driver Board (PCA9685) <hr> <a href="Servo Motor Driver Board (PCA9685)/README.md"> more info...</a> | <img src="Servo Motor Driver Board (PCA9685)/PCA9685_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:|Switch Button<hr><a href="Switch Button/README.md"> more info...</a>|  <img src="Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Capacitieve Touch Button (HW139)<hr><a href="Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:vomiting_face:|Switch Keypad Hard<hr> <a href="Switch Keypad Hard/README.md"> more info...</a> | <img src="Switch Keypad Hard/Switch Keypad Hard_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:|Switch Keypad Membraam<hr> <a href="Switch Keypad Membraam/README.md"> more info...</a> | <img src="Switch Keypad Membraam/Switch Keypad Membraam_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Switch Keypad Hard<hr> <a href="Switch Keypad Hard/README.md"> more info...</a> | <img src="Switch Keypad Hard/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Switch Keypad Membrame<hr> <a href="Switch Keypad Membrame/README.md"> more info...</a> | <img src="Switch Keypad Membrame/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Switch Rotery (RS1010)<hr> <a href="Switch Rotery (RS1010)/README.md"> more info...</a> | <img src="Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Temperature (TC74) <hr> <a href="Temperature (TC74)/README.md"> more info...</a> | <img src="Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:|Temperature Humidity (DHT11) <hr> <a href="Temperature Humidity (DHT11)/README.md"> more info...</a> | <img src="Temperature Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|

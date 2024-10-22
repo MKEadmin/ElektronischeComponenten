@@ -11,7 +11,7 @@
 
 
 ## Wiring to Raspberry Pi Pico
-<img src="Keypad_Wiring.jpg" alt="Wiring" >
+<img src="Keypad_Wires.jpg" alt="Wiring" >
 
 ## Installation libraries
 Copy next files to the Raspberry Pi Pico
