@@ -118,9 +118,6 @@ Conclusion
 
 The MCP4725 is a versatile and easy-to-use 12-bit DAC with built-in EEPROM and I2C interface. It is ideal for applications requiring analog signal generation, precision voltage control, and systems that need to retain DAC output values after power cycles. Its small size, low power consumption, and high resolution make it popular in both hobbyist projects and professional designs.
 
-
-## specs
-
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006459299143.html">https://nl.aliexpress.com/item/1005006459299143.htm</a>
 <img src="MCP4725_Order.jpg" alt="Photo of the Order">
