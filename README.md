@@ -6,7 +6,6 @@
 |:vomiting_face:| Bluetooth Transceiver (HC-05)<hr><a href="Bluetooth Transceiver (HC-05)/README.md"> more info...</a>|  <img src="Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  <img src="ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| DAC (MCP4725) <hr><a href="DAC (MCP4725)/README.md"> more info...</a>|  <img src="DAC (MCP4725)/MCP4725_Photo.jpg" alt="Photo of the component" width="200">  |
-|:vomiting_face:| DC-DC Step-Up Converter (MT3608) <hr><a href="DC-DC Step-Up Converter (MT3608)/README.md"> more info...</a>|  <img src="DC-DC Step-Up Converter (MT3608)/MT3608_Photo.jpg" alt="Photo of the component" width="200">  |
 |:grinning:| Display LCD + i2c (Lcd1602) <hr> <a href="Display LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  <img src="Display LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:| Display Matrix (Max7219)  <hr><a href="Display Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:| Display Neopixel (WS2812)<hr><a href="Display Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
@@ -43,6 +42,8 @@
 |:vomiting_face:| Temperature Humidity Pressure (Si7021) <hr> <a href="Temperature Humidity Pressure (SI7021)/README.md"> more info...</a> | <img src="Temperature Humidity Pressure (SI7021)/SI7021_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Transistor (BD135)<hr> <a href="Transistor (BD135)/README.md"> more info...</a> | <img src="Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Transistor (BD136)<hr> <a href="Transistor (BD136)/README.md"> more info...</a> | <img src="Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:| Voltage regulator (7805) <hr><a href="Voltage regulator (7805)/README.md"> more info...</a>|  <img src="Voltage regulator (7805)/7805_Photo.jpg" alt="Photo of the component" width="200">  |
+|:vomiting_face:| Voltage regulator (MT3608) <hr><a href="Voltage regulator (MT3608)/README.md"> more info...</a>|  <img src="Voltage regulator (MT3608)/MT3608_Photo.jpg" alt="Photo of the component" width="200">  |
 
 # microController
 
