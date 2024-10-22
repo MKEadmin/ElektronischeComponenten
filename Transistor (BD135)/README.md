@@ -76,16 +76,9 @@ The BD135 NPN transistor is a reliable and versatile component widely used in el
 ## Wiring to Raspberry Pi Pico
 <img src="BD135_Wiring.jpg" alt="Wiring" >
 
-## Installation libraries
-Copy next files to the Raspberry Pi Pico
-
-```bash
-
-```
-
 ## Example code
 ```python
-
+# can not be programmed via the pico
 
 ```
 
