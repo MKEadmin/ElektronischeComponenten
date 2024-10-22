@@ -67,15 +67,16 @@ The BME280 sensor is highly versatile and widely used in projects that require r
 <img src="BME280_Wiring.jpg" alt="Wiring" >
 
 ## installation libraries
+Copy the next class to the raspberry pico
+```bash
 
-from machine import I2C
-import time
+```
 
-##
+## Example code
+```python
+
+```
 
 
-
-
-## Connecting for example to Raspberry Pico
 
 
