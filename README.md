@@ -1,4 +1,6 @@
-# Elektronische Componenten
+# Electronic Components
+Components in the electronic circuit not programmable or readable to a microComputer / microController
+
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
 |:grinning:|LevelShifter (HW221)<hr> <a href="LevelShifter (HW221)/README.md"> more info...</a>         |  <img src="LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |
@@ -10,6 +12,8 @@
 
 
 # Display
+Different kind of displays and presentation controlled by a microComputer/ microController
+
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
 |:vomiting_face:|LED 7-Segment (HT16K33)<hr><a href="Display/LED 7-Segment (HT16K33)/README.md"> more info...</a>|  <img src="Display/LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |
@@ -19,7 +23,9 @@
 |:vomiting_face:|Neopixel (WS2812)<hr><a href="Display/Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display/Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:|Oled (SSD1306)<hr><a href="Display/Oled (SSD1306)/README.md"> more info...</a> |  <img src="Display/Oled (SSD1306)/SSD1306_Photo.jpg" alt="Photo of the component" width="200"> |  
 
-# Componenten to connect to microController  / microComputer
+# connect to microController / microComputer
+Components to connect and controlled by a microComputer / microController
+
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
 |:grinning:|ADC (ADS1115) <hr><a href="ADC (ADS1115)/README.md"> more info...</a>|  <img src="ADC (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |
@@ -53,6 +59,7 @@
 |:vomiting_face:|Temperature Humidity Pressure (Si7021) <hr> <a href="Temperature Humidity Pressure (SI7021)/README.md"> more info...</a> | <img src="Temperature Humidity Pressure (SI7021)/SI7021_Photo.jpg" alt="Photo of the component" width="200">|
 
 # microController / microComputer
+
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
 |:vomiting_face:| microComputer Raspberry-Pi<hr> <a href="microComputer Raspberry-Pi/README.md"> more info...</a> | <img src="microComputer Raspberry-Pi/Raspberry-Pi_Pinout.jpg" alt="Photo of the component" width="200">|
