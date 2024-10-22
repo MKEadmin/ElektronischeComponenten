@@ -62,9 +62,9 @@ Components to connect and controlled by a microComputer / microController
 
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:vomiting_face:| microComputer Raspberry-Pi<hr> <a href="microComputer Raspberry-Pi/README.md"> more info...</a> | <img src="microComputer Raspberry-Pi/Raspberry-Pi_Pinout.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| microController Arduino-UNO <hr> <a href="microController Arduino-UNO/README.md"> more info...</a> | <img src="microController Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| microController Raspberry Pi Pico <hr> <a href="microController Raspberry-Pico/README.md"> more info...</a> | <img src="microController Raspberry-Pico/Pico-R3-A4_Pinout.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:| microController WeMos <hr> <a href="microController WeMos/README.md"> more info...</a> | <img src="microController WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Raspberry-Pi<hr> <a href="microController/Raspberry-Pi/README.md"> more info...</a> | <img src="microController/Raspberry-Pi/Raspberry-Pi_Pinout.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Arduino-UNO <hr> <a href="microController/Arduino-UNO/README.md"> more info...</a> | <img src="microController/Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Raspberry Pi Pico <hr> <a href="microController/Raspberry-Pico/README.md"> more info...</a> | <img src="microController/Raspberry-Pico/Pico-R3-A4_Pinout.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|WeMos <hr> <a href="microController/WeMos/README.md"> more info...</a> | <img src="microController/WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">|
 
 
