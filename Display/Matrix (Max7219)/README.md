@@ -56,6 +56,7 @@ Max7219.py
 ```
 
 ## Example code
+```python
 import sys
 if sys.platform != 'rp2': # raspian pico
     print(40 * "-")
@@ -102,3 +103,4 @@ display.brightness(_brightness)
 
 display.text("hoi", 2, 1)
 display.show()
+```
