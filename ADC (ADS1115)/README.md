@@ -25,12 +25,9 @@ The **ADS1115** is a 16-bit analog-to-digital converter (ADC) from Texas Instrum
 
 Its high resolution, versatility in input channels, and ease of integration make the ADS1115 a popular choice for projects that require accurate analog-to-digital conversion with low power demands.
 
-## specs
-
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006143923238.html">https://nl.aliexpress.com/item/1005006143923238.htm</a>
 <img src="ADS1115_Order.jpg" alt="Photo of the Order">
-
 
 ## Wiring to Raspberry Pi Pico
 <img src="ADS1115_Wiring.jpg" alt="Wiring" >
