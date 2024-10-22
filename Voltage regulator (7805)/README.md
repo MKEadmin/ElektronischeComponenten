@@ -64,22 +64,5 @@ The 7805 voltage regulator is a reliable and easy-to-use component for providing
 <img src="7805_Order.jpg" alt="Photo of the Order">
 
 
-## Wiring to Raspberry Pi Pico
+## Wiring
 <img src="7805_Wiring.jpg" alt="Wiring" >
-
-## Installation libraries
-Copy next files to the Raspberry Pi Pico
-
-```bash
-
-```
-
-## Example code
-```python
-
-
-
-```
-
-
-
