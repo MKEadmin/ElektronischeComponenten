@@ -3,12 +3,12 @@ Components in the electronic circuit not programmable or readable to a microComp
 
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:grinning:|LevelShifter (HW221)<hr> <a href="LevelShifter (HW221)/README.md"> more info...</a>         |  <img src="LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |
-|:vomiting_face:|Power Jack (PJ-002A)<hr><a href="Power Jack (PJ-002A)/README.md"> more info...</a>|  <img src="Power Jack (PJ-002A)/PJ-002A_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:vomiting_face:|Transistor (BD135)<hr> <a href="Transistor (BD135)/README.md"> more info...</a> | <img src="Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:|Transistor (BD136)<hr> <a href="Transistor (BD136)/README.md"> more info...</a> | <img src="Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:|Voltage regulator (7805)<hr><a href="Voltage regulator (7805)/README.md"> more info...</a>|  <img src="Voltage regulator (7805)/7805_Photo.jpg" alt="Photo of the component" width="200">  |
-|:vomiting_face:|Voltage regulator (MT3608)<hr><a href="Voltage regulator (MT3608)/README.md"> more info...</a>|  <img src="Voltage regulator (MT3608)/MT3608_Photo.jpg" alt="Photo of the component" width="200">  |
+|:grinning:|LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | <img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |
+|:vomiting_face:|Power Jack (PJ-002A)<hr><a href="Components/Power Jack (PJ-002A)/README.md"> more info...</a>| <img src="Components/Power Jack (PJ-002A)/PJ-002A_Photo.jpg" alt="Photo of the component" width="200">  |  
+|:vomiting_face:|Transistor (BD135)<hr> <a href="Components/Transistor (BD135)/README.md"> more info...</a>   | <img src="Components/Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Transistor (BD136)<hr> <a href="Components/Transistor (BD136)/README.md"> more info...</a>   | <img src="Components/Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Voltage regulator (7805)<hr><a href="Components/Voltage regulator (7805)/README.md"> more info...</a>|  <img src="Components/Voltage regulator (7805)/7805_Photo.jpg" alt="Photo of the component" width="200">  |
+|:vomiting_face:|Voltage regulator (MT3608)<hr><a href="Components/Voltage regulator (MT3608)/README.md"> more info...</a>|  <img src="Components/Voltage regulator (MT3608)/MT3608_Photo.jpg" alt="Photo of the component" width="200">  |
 
 
 # Display
