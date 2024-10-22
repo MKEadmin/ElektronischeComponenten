@@ -80,9 +80,14 @@ The SI7021 is a reliable and accurate temperature and humidity sensor that offer
 
 <img src="SI7021_Wiring.jpg" alt="Wiring" >
 
+
 ## installation libraries
+Copy the next class to the raspberry pico
+```bash
 
+```
 
+## Example code
+```python
 
-## 
-
+```
