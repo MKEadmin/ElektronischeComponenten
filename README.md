@@ -12,10 +12,12 @@
 # Display
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:grinning:| Display LCD + i2c (Lcd1602) <hr> <a href="Display/LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  <img src="Display/LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:vomiting_face:| Display Matrix (Max7219)  <hr><a href="Display/Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display/Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
-|:vomiting_face:| Display Neopixel (WS2812)<hr><a href="Display/Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display/Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
-|:vomiting_face:| Display Oled (SSD1306)<hr><a href="Display/Oled (SSD1306)/README.md"> more info...</a> |  <img src="Display/Oled (SSD1306)/SSD1306_Photo.jpg" alt="Photo of the component" width="200"> |  
+|:vomiting_face:|LED 7-Segment (HT16K33)<hr><a href="Display/LED 7-Segment (HT16K33)/README.md"> more info...</a>|  <img src="Display/LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |
+|:vomiting_face:|LED RGB (WS2812) <hr><a href="Display/LED RGB (WS2812)/README.md"> more info...</a>|  <img src="Display/LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |
+|:grinning:|LCD + i2c (Lcd1602) <hr> <a href="Display/LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  <img src="Display/LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  
+|:vomiting_face:|Matrix (Max7219)  <hr><a href="Display/Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display/Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
+|:vomiting_face:|Neopixel (WS2812)<hr><a href="Display/Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display/Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
+|:vomiting_face:|Oled (SSD1306)<hr><a href="Display/Oled (SSD1306)/README.md"> more info...</a> |  <img src="Display/Oled (SSD1306)/SSD1306_Photo.jpg" alt="Photo of the component" width="200"> |  
 
 # Componenten to connect to microController  / microComputer
 |:vomiting_face: :grinning: | Component  | Picture | 
@@ -29,8 +31,6 @@
 |:vomiting_face:|Gyroscope Accelerometer (BMI160)<hr><a href="Gyroscope Accelerometer (BMI160)/README.md"> more info...</a> |  <img src="Gyroscope Accelerometer (BMI160)/BMI160_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:|Gyroscope Accelerometer (MPU6050)<hr><a href="Gyroscope Accelerometer (MPU6050)/README.md"> more info...</a> |  <img src="Gyroscope Accelerometer (MPU6050)/MPU6050_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:|Infrared Sensor (HW201)<hr><a href="Infrared Sensor (HW201)/README.md"> more info...</a> |  <img src="Infrared Sensor (HW201)/HW201_Photo.jpg" alt="Photo of the component" width="200"> |  
-|:vomiting_face:|LED 7-Segment (HT16K33)<hr><a href="LED 7-Segment (HT16K33)/README.md"> more info...</a>|  <img src="LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |
-|:vomiting_face:|LED RGB (WS2812) <hr><a href="LED RGB (WS2812)/README.md"> more info...</a>|  <img src="LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |
 |:vomiting_face:|Magnetometer (MLX90393) <hr> <a href="Magnetometer (MLX90393)/README.md"> more info...</a>   |  <img src="Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:|Micro SD Card Adapter <hr> <a href="Micro SD Card Adapter/README.md"> more info...</a>       |  <img src="Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:|PIR Module (HC-SR501)<hr><a href="PIR Module (HC-SR501)/README.md"> more info...</a>|  <img src="PIR Module (HC-SR501)/HC-SR501_Photo.jpg" alt="Photo of the component" width="200">  |  
