@@ -24,6 +24,7 @@ Components in the electronic circuit not programmable or readable to a microComp
 
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
+|:grinning:|Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    | <img src="Components/LHeader pin/Header_Photo.jpg" alt="Photo of the component" width="200"> |
 |:grinning:|LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | <img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:|Power Jack (PJ-002A)<hr><a href="Components/Power Jack (PJ-002A)/README.md"> more info...</a>| <img src="Components/Power Jack (PJ-002A)/PJ-002A_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Transistor (BD135)<hr> <a href="Components/Transistor (BD135)/README.md"> more info...</a>   | <img src="Components/Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|
@@ -47,7 +48,8 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:vomiting_face:|ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="Environment/ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  <img src="Environment/ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |  
+|:vomiting_face:|ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="Environment/ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  <img src="Environment/ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |
+|:vomiting_face:|Sound Sensor (ST1146)<hr><a href="Environment/Sound Sensor (ST1146)/README.md"> more info...</a>|  <img src="Environment/Sound Sensor (ST1146)/ST1146_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Temperature (TC74) <hr> <a href="Environment/Temperature (TC74)/README.md"> more info...</a> | <img src="Environment/Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:|Temperature Humidity (DHT11) <hr> <a href="Environment/Temperature Humidity (DHT11)/README.md"> more info...</a> | <img src="Environment/Temperature Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:|Temperature Humidity (DHT22) <hr> <a href="Environment/Temperature Humidity (DHT22)/README.md"> more info...</a> | <img src="Environment/Temperature Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|
