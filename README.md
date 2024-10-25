@@ -16,7 +16,7 @@
 # Communication
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:vomiting_face:|Bluetooth Transceiver (HC-05)<hr><a href="Communication/Bluetooth Transceiver (HC-05)/README.md"> more info...</a>|  <img src="Communication/Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200">  |  
+|:grinning:|Bluetooth Transceiver (HC-05)<hr><a href="Communication/Bluetooth Transceiver (HC-05)/README.md"> more info...</a>|  <img src="Communication/Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200">  |  
 
 
 # Electronic Components
