@@ -60,6 +60,7 @@ The BME280 sensor is highly versatile and widely used in projects that require r
 <img src="BME280_Order.jpg" alt="Photo of the Order">
 
 ## Wiring to Raspberry Pi Pico
+<img src="BMP280_6Pins.jpg" alt="Wiring" >
 
 <img src="BME280_Wiring.jpg" alt="Wiring" >
 
