@@ -53,7 +53,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:vomiting_face:|Temperature (TC74) <hr> <a href="Environment/Temperature (TC74)/README.md"> more info...</a> | <img src="Environment/Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:|Temperature Humidity (DHT11) <hr> <a href="Environment/Temperature Humidity (DHT11)/README.md"> more info...</a> | <img src="Environment/Temperature Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|
 |:grinning:|Temperature Humidity (DHT22) <hr> <a href="Environment/Temperature Humidity (DHT22)/README.md"> more info...</a> | <img src="Environment/Temperature Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:|Temperature Humidity Pressure (BME280) <hr> <a href="Environment/Temperature Humidity Pressure (BME280)/README.md"> more info...</a> | <img src="Environment/Temperature Humidity Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|
+|:grinning:|Temperature Humidity Pressure (BME280) <hr> <a href="Environment/Temperature Humidity Pressure (BME280)/README.md"> more info...</a> | <img src="Environment/Temperature Humidity Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Temperature Humidity Pressure (Si7021) <hr> <a href="Environment/Temperature Humidity Pressure (SI7021)/README.md"> more info...</a> | <img src="Environment/Temperature Humidity Pressure (SI7021)/SI7021_Photo.jpg" alt="Photo of the component" width="200">|
 
 # Memory
