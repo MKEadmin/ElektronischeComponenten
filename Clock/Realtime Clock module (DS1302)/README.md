@@ -94,9 +94,9 @@ from machine import Pin
 from time import sleep
 from ds1302 import DS1302
 
-PIN_CLK = 0
-PIN_DIO = 1
-PIN_CS  = 2
+PIN_CLK = 18
+PIN_DIO = 17
+PIN_CS  = 16
 
 # Initialize DS1302 RTC with specified pins (clk, dio, cs)
 ds = DS1302(Pin(PIN_CLK),Pin(PIN_DIO),Pin(PIN_CS))
@@ -113,6 +113,7 @@ ds.second(50)
 while True:
     print( f"Date={ds.month():2}/{ds.day():2}/{ds.year():4} Time={ds.hour():02}:{ds.minute():02}:{ds.second():02}")
     sleep(1)
+
 ```
 
 
