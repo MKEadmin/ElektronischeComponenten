@@ -1,6 +1,6 @@
 ## Display Matrix (Max7219)
 <img src="Max7219_Photo.jpg" alt="Photo of the component">
-<img src="Lcd1602_QR_code.jpg" alt="QR code to this page" width="80" height="80">
+<img src="Max7219_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Where stored
 Cupboard __1__ Drawer __2__  position __A3__
@@ -46,12 +46,10 @@ This setup is ideal for hobbyists and developers working with microcontroller pl
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006140674321.html">https://nl.aliexpress.com/item/1005006191542573.html?</a>
 
-<img src="Lcd1602_Order.jpg" alt="Photo of the Order">
+<img src="Max7219_Order.jpg" alt="Photo of the Order">
 
 ## Wiring to Raspberry Pi Pico
-<img src="DotMatrixWiring.jpg" alt="Wiring" >
-![DotMatrixWiring](https://github.com/user-attachments/assets/53816877-3e92-4eae-9f90-756d4c54f1b7)
-![image](https://github.com/user-attachments/assets/894fa09f-6691-4797-9386-a45b075b51eb)
+<img src="Max7219_Wiring.jpg" alt="Wiring" >
 
 ## Installation libraries
 Copy next files to the Raspberry Pi Pico
