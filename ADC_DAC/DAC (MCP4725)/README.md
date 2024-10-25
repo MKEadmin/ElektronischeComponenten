@@ -134,8 +134,6 @@ Copy next files to the Raspberry Pi Pico
 ```
 
 ## Example code
-# micropython-mcp4725
-A [micropython](http://micropython.org) driver for the MCP4725 I²C DAC.
 
 The MCP4725 is a digital to analog converter chip with a 12-Bit resolution on
 the output. The MCP4725 works with a supply voltage from 3.3V to 5V. The output range runs from 0V up to the supply voltage. 
