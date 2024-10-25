@@ -86,8 +86,9 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:grinning:|RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | <img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Switch Button<hr><a href="Switches/Switch Button/README.md"> more info...</a>|  <img src="Switches/Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Capacitieve Touch Button (HW139)<hr><a href="Switches/Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Switches/Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:vomiting_face:|Switch Keypad Hard<hr> <a href="Switches/Switch Keypad Hard/README.md"> more info...</a> | <img src="Switches/Switch Keypad Hard/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:|Switch Keypad Membrame<hr> <a href="Switches/Switch Keypad Membrame/README.md"> more info...</a> | <img src="Switches/Switch Keypad Membrame/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
+|:grinning:|Keypad 3x4<hr> <a href="Switches/Keypad 3x4/README.md"> more info...</a> | <img src="Switches/Keypad 3x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Keypad 4x4<hr> <a href="Switches/Keypad 4x4/README.md"> more info...</a> | <img src="Switches/Keypad 4x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
+|:vomiting_face:|Keypad Membrame<hr> <a href="Switches/Switch Keypad Membrame/README.md"> more info...</a> | <img src="Switches/Switch Keypad Membrame/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Switch Rotery (RS1010)<hr> <a href="Switches/Switch Rotery (RS1010)/README.md"> more info...</a> | <img src="Switches/Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|
 
 # microController / microComputer
