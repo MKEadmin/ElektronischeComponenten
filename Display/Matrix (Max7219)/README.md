@@ -26,12 +26,12 @@ Pinouts (via I2C module):
 
 Advantages:
 
-	1.	Fewer Pins: Reduces the number of GPIO pins needed (from 8 to 4).
-	2.	Simplified Wiring: The I2C bus allows multiple devices to be connected in parallel, making it more flexible in large projects.
-	3.	Contrast Control: The potentiometer on the I2C board allows for easy adjustment of the display’s contrast.
-	4.	Ease of use: Fewer pins and minimal code needed to change makes for an easier experience
- 	5.	High brightness: You can controll the brightness yourself 
-	6.	Low powerconsumption: Plugging it into your laptop is enough to power it.
+	•	Fewer Pins: Reduces the number of GPIO pins needed (from 8 to 4).
+	•	Simplified Wiring: The I2C bus allows multiple devices to be connected in parallel, making it more flexible in large projects.
+	•	Contrast Control: The potentiometer on the I2C board allows for easy adjustment of the display’s contrast.
+	•	Ease of use: Fewer pins and minimal code needed to change makes for an easier experience
+ 	•	High brightness: You can controll the brightness yourself 
+	•	Low powerconsumption: Plugging it into your laptop is enough to power it.
  
 Typical Use Cases:
 
@@ -52,7 +52,6 @@ This setup is ideal for hobbyists and developers working with microcontroller pl
 <img src="DotMatrixWiring.jpg" alt="Wiring" >
 ![DotMatrixWiring](https://github.com/user-attachments/assets/53816877-3e92-4eae-9f90-756d4c54f1b7)
 ![image](https://github.com/user-attachments/assets/894fa09f-6691-4797-9386-a45b075b51eb)
-
 
 ## Installation libraries
 Copy next files to the Raspberry Pi Pico
