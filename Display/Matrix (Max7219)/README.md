@@ -60,55 +60,25 @@ Max7219.py
 
 ## Example code
 ```python
-import sys
-if sys.platform != 'rp2': # raspian pico
-    print(40 * "-")
-    print(">>>>>> Demo for Raspberry Pi Pico <<<<<<")
-    print(40 * "-")
-    quit()
-    # This portion of the code checks if it is being run on a Respberry Pi Pico
-    
-"""
-    about   : Max7219Matrix is IDisplay inherrited class for displaying
-              on a max 7219 matrix connected to a pico
-    Version : 1.0.0
-    Date    : 10 April 2024
-    
-    MAX7219 driver: https://github.com/mcauser/micropython-max7219
-    Note: this driver is designed for 4-in-1 MAX7219 modules.
-"""
-
 from machine import Pin, SPI
-from utime import sleep
 from Max7219 import Matrix8x8
-# These are the imports needed for the code to function
 
-PIXELS_MODULE_WIDTH: int = 8
-PIXELS_MODULE_HEIGHT:int = 8
-# These show the value 8 because we are using 8X8 matrix screens(8 dots in width and 8 dots in height)
+PSI_CHANNEL = 0 # Sets SPI channel to 0
+PIN_SCK = 2     # shows to which pin it needs to be connected on the Raspberry pi pico
+PIN_MOSI = 3    # shows to which pin it needs to be connected on the Raspberry pi pico
+PIN_CS = 5      # shows to which pin it needs to be connected on the Raspberry pi pico
 
-PIXELS_HEIGHT = PIXELS_MODULE_WIDTH
-PSI_CHANNEL = 0  # Sets SPI channel to 0
-SCROLL_DELAY = 50  # MAX7219 display scrolling speed (ms)
-SLEEP_ANIMATION = .5
-PIXEL_ON = 1  # A pixel that recieves the value 1 turns on
-PIXEL_OFF = 0  # A pixle that recieves the value 0 turns off
-
-_pin_sck = 2  # shows to which pin it needs to be connected on the Raspberry pi pico
-_pin_mosi = 3  # shows to which pin it needs to be connected on the Raspberry pi pico
-_pin_cs = 5  # shows to which pin it needs to be connected on the Raspberry pi pico
-
-_brightness = 4  # Select the brightness of the screen(ranges from 0-15)
+BRIGHTNESS = 4  		 # Select the brightness of the screen(ranges from 0-15)
 number_of_modules_x = 4  # The number of Screens connected in the X access(width)
 number_of_modules_y = 1  # The number of screens conencted in the Y access(height)
-_width  = number_of_modules_x * PIXELS_MODULE_WIDTH  # Calculates the total width of the dotmatrix
-_height = number_of_modules_y * PIXELS_MODULE_HEIGHT  # Calculates the total height of the dotmatrix
 
-spi = SPI(PSI_CHANNEL, sck=Pin(_pin_sck), mosi=Pin(_pin_mosi))
-cs = Pin(_pin_cs, Pin.OUT)
+spi = SPI(PSI_CHANNEL, sck=Pin(PIN_SCK), mosi=Pin(PIN_MOSI))
+cs = Pin(PIN_CS, Pin.OUT)
+
 display = Matrix8x8(spi, cs, number_of_modules_x * number_of_modules_y)
-display.brightness(_brightness)
+display.brightness(BRIGHTNESS)
 
 display.text("hi!!", 2, 1)  # Enter the text you wish to display
-display.show()  # This actualy shows the text on the display
+display.show()  			# This actualy shows the text on the display
+
 ```

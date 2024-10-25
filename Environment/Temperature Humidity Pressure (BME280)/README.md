@@ -55,14 +55,12 @@ Applications:
 
 The BME280 sensor is highly versatile and widely used in projects that require reliable and accurate environmental data. With its ability to measure temperature, humidity, and pressure, it offers a powerful solution for both hobbyists and professionals in fields like meteorology, climatology, and IoT.
 
-## specs
-<img src="BME280_Specs_01.jpg" alt="Photo of the component">
-
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006716811673.html">https://nl.aliexpress.com/item/1005006716811673.html</a>
 <img src="BME280_Order.jpg" alt="Photo of the Order">
 
 ## Wiring to Raspberry Pi Pico
+<img src="BMP280_6Pins.jpg" alt="Wiring" >
 
 <img src="BME280_Wiring.jpg" alt="Wiring" >
 
