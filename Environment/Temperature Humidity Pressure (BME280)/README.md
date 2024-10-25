@@ -69,12 +69,12 @@ The BME280 sensor is highly versatile and widely used in projects that require r
 ## installation libraries
 Copy the next class to the raspberry pico
 ```bash
-
+BME280.py
 ```
 
 ## Example code
 ```python
-
+BME280_Example.py
 ```
 
 

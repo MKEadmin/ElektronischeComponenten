@@ -59,7 +59,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 # Memory
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:vomiting_face:|Micro SD Card Adapter <hr> <a href="Memory/Micro SD Card Adapter/README.md"> more info...</a>       |  <img src="Memory/Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="200"> |
+|:grinning:|Micro SD Card Adapter <hr> <a href="Memory/Micro SD Card Adapter/README.md"> more info...</a>       |  <img src="Memory/Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="200"> |
 
 # Motor
 |:vomiting_face: :grinning: | Component  | Picture | 
