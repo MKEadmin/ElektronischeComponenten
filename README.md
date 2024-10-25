@@ -40,7 +40,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:vomiting_face:|LED 7-Segment (HT16K33)<hr><a href="Display/LED 7-Segment (HT16K33)/README.md"> more info...</a>|  <img src="Display/LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |
 |:vomiting_face:|LED RGB (WS2812) <hr><a href="Display/LED RGB (WS2812)/README.md"> more info...</a>|  <img src="Display/LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |
 |:grinning:|LCD + i2c (Lcd1602) <hr> <a href="Display/LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  <img src="Display/LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:vomiting_face:|Matrix (Max7219)  <hr><a href="Display/Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display/Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
+|:grinning:|Matrix (Max7219)  <hr><a href="Display/Matrix (Max7219)/README.md"> more info...</a> |  <img src="Display/Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |
 |:vomiting_face:|Neopixel (WS2812)<hr><a href="Display/Neopixel (WS2812)/README.md"> more info...</a> |  <img src="Display/Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  
 |:vomiting_face:|Oled (SSD1306)<hr><a href="Display/Oled (SSD1306)/README.md"> more info...</a> |  <img src="Display/Oled (SSD1306)/SSD1306_Photo.jpg" alt="Photo of the component" width="200"> |  
 
