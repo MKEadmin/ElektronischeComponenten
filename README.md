@@ -83,7 +83,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 # Switch
 |:vomiting_face: :grinning: | Component  | Picture | 
 |:--:|:---:|:---:|
-|:vomiting_face:|RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | <img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|
+|:grinning:|RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | <img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|
 |:vomiting_face:|Switch Button<hr><a href="Switches/Switch Button/README.md"> more info...</a>|  <img src="Switches/Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Capacitieve Touch Button (HW139)<hr><a href="Switches/Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Switches/Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
 |:vomiting_face:|Switch Keypad Hard<hr> <a href="Switches/Switch Keypad Hard/README.md"> more info...</a> | <img src="Switches/Switch Keypad Hard/Keypad_Photo.jpg" alt="Photo of the component" width="200">|

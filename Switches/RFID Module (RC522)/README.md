@@ -7,7 +7,6 @@ Cupboard __1__ Drawer __2__  position __A3__
 
 ## Description
 
-
 The **RC522** is an RFID (Radio-Frequency Identification) module designed for contactless communication, allowing devices to read from and write to RFID cards or tags. Operating at a frequency of 13.56 MHz, the RC522 can interface seamlessly with popular microcontrollers like Arduino, ESP32, and Raspberry Pi via the SPI protocol. Its integrated antenna and robust design make it a versatile tool for applications like access control, security, and identification.
 
 ## Key Features
@@ -79,25 +78,21 @@ RC522.py
 from rc522 import RC522
 import utime
 
-reader = RC522(spi_id=0, sck=6, miso=4, mosi=7, cs=5, rst=22)
+reader = RC522(spi_id=0, sck=6, miso=4, mosi=7, cs=5, rst=3)
+reader.init()
 
 print("Bring TAG closer...")
 print("")
 
 while True:
-    reader.init()
-    (stat, tag_type) = reader.request(reader.REQIDL)
+    utime.sleep_ms(500)
+    stat, tag_type = reader.request(reader.REQIDL)
+    
+    if stat != reader.OK:
+        continue
+        
+    stat, uid = reader.SelectTagSN()
     if stat == reader.OK:
-        (stat, uid) = reader.SelectTagSN()
-        if stat == reader.OK:
-            card = int.from_bytes(bytes(uid), "little", False)
-            print("CARD ID: " + str(card))
-utime.sleep_ms(500)
+        card = int.from_bytes(bytes(uid), "little", False)
+        print(f"CARD ID: {card}")
 ```
-
-## More Information
-https://www.youtube.com/watch?v=hV9GTqXLMpg
-https://www.youtube.com/watch?v=blW7QlMOhh8
-
-
-
