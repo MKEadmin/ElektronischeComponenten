@@ -14,22 +14,23 @@
 <img src="Keypad_Wiring.jpg" alt="Wiring" >
 
 ## Installation libraries
+copy the next files to the pico
 ```bash
-Copy numlock_3x4 to the Raspberry Pico
+ numlock3x4.py
 ```
 
 ## Example code
 ```python
-from numlock_3x4 import read_key		#Libary for the numlock
+from numlock3x4 import read_key #Libary for the numlock
+from utime import sleep
 
 user_Code = []
 while True: 
     key = read_key()	#reads numpad inputs
-    if key != None:
-        user_Code.append(key)
-        if key == "#":
-            print(user_Code)
-            user_Code = []
+    print(key)
+    sleep(.1)
+
+
 ```
 
 
