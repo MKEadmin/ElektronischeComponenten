@@ -51,6 +51,8 @@ This setup is ideal for hobbyists and developers working with microcontroller pl
 ## Wiring to Raspberry Pi Pico
 <img src="DotMatrixWiring.jpg" alt="Wiring" >
 ![DotMatrixWiring](https://github.com/user-attachments/assets/53816877-3e92-4eae-9f90-756d4c54f1b7)
+![image](https://github.com/user-attachments/assets/894fa09f-6691-4797-9386-a45b075b51eb)
+
 
 ## Installation libraries
 Copy next files to the Raspberry Pi Pico
