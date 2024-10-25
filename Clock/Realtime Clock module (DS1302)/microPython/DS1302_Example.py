@@ -2,9 +2,9 @@ from machine import Pin
 from time import sleep
 from ds1302 import DS1302
 
-PIN_CLK = 0
-PIN_DIO = 1
-PIN_CS  = 2
+PIN_CLK = 18
+PIN_DIO = 17
+PIN_CS  = 16
 
 # Initialize DS1302 RTC with specified pins (clk, dio, cs)
 ds = DS1302(Pin(PIN_CLK),Pin(PIN_DIO),Pin(PIN_CS))
