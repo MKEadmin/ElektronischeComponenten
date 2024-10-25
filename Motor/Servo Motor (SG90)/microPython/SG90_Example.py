@@ -1,21 +1,24 @@
-#include <Servo.h>
+from machine import Pin, PWM
+from time import sleep
 
-Servo myServo;  // Create a Servo object to control the SG90 servo motor
 
-void setup() {
-  myServo.attach(9);  // Attach the servo motor to digital pin 9
-}
+servo = PWM(Pin(16))
+servo.freq(50)  
 
-void loop() {
-  // Move from 0° to 180°
-  for (int angle = 0; angle <= 180; angle++) {
-    myServo.write(angle);         // Set the servo position
-    delay(15);                    // Wait 15 ms to allow the servo to reach the position
-  }
-  
-  // Move from 180° to 0°
-  for (int angle = 180; angle >= 0; angle--) {
-    myServo.write(angle);         // Set the servo position
-    delay(15);                    // Wait 15 ms to allow the servo to reach the position
-  }
-}
+def set_angle(angle):
+    min_duty = 2000   
+    max_duty = 8000   
+    duty = int(min_duty + (angle / 180) * (max_duty - min_duty))
+    servo.duty_u16(duty)
+
+while True:
+    # Sweep from 0° to 180°
+    for angle in range(0, 181, 5):
+        set_angle(angle)
+        sleep(0.02)  # 20 ms delay
+    
+    # Sweep from 180° to 0°
+    for angle in range(180, -1, -5):
+        set_angle(angle)
+        sleep(0.02)  # 20 ms delay
+
