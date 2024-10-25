@@ -6,7 +6,7 @@
 ## Description
 
 ## Order
-<a href="https://www.otronic.nl/nl/3x4-matrix-keypad-zwart.html">https://nl.aliexpress.com/item/1005006160604822.htm</a>
+<a href="https://www.otronic.nl/nl/3x4-matrix-keypad-zwart.html">https://www.otronic.nl/nl/3x4-matrix-keypad-zwart.htm</a>
 <img src="Keypad_Order.jpg" alt="Photo of the Order">
 
 
@@ -14,17 +14,22 @@
 <img src="Keypad_Wiring.jpg" alt="Wiring" >
 
 ## Installation libraries
-Copy next files to the Raspberry Pi Pico
-
 ```bash
-
+Copy numlock_3x4 to the Raspberry Pico
 ```
 
 ## Example code
 ```python
+from numlock_3x4 import read_key		#Libary for the numlock
 
-
-
+user_Code = []
+while True: 
+    key = read_key()	#reads numpad inputs
+    if key != None:
+        user_Code.append(key)
+        if key == "#":
+            print(user_Code)
+            user_Code = []
 ```
 
 
