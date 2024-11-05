@@ -2,13 +2,13 @@
 
 |:vomiting_face: :grinning: |Kast|Lade|Bak  | Picture | Component|
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:||||<img src="ADC_DAC/ADC (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |ADC (ADS1115) <hr><a href="ADC_DAC/ADC (ADS1115)/README.md"> more info...</a>|
+|:grinning:     ||||<img src="ADC_DAC/ADC (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |ADC (ADS1115) <hr><a href="ADC_DAC/ADC (ADS1115)/README.md"> more info...</a>|
 |:vomiting_face:||||  <img src="ADC_DAC/DAC (MCP4725)/MCP4725_Photo.jpg" alt="Photo of the component" width="200">  |DAC (MCP4725) <hr><a href="ADC_DAC/DAC (MCP4725)/README.md"> more info...</a>|
 
 # Clock
 |:vomiting_face: :grinning:|Kast|Lade|Bak|Component| Picture | 
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:|||| <img src="Clock/Realtime Clock module (DS1302)/DS1302_Photo.jpg" alt="Photo of the component" width="200">|Realtime Clock module (DS1302) <hr> <a href="Clock/Realtime Clock module (DS1302)/README.md"> more info...</a> 
+|:grinning:     |||| <img src="Clock/Realtime Clock module (DS1302)/DS1302_Photo.jpg" alt="Photo of the component" width="200">|Realtime Clock module (DS1302) <hr> <a href="Clock/Realtime Clock module (DS1302)/README.md"> more info...</a> 
 |:vomiting_face:|||| <img src="Clock/Realtime Clock module (DS1307 or HW111)/HW111_Photo.jpg" alt="Photo of the component" width="200">|Realtime Clock module (DS1307 or HW111) <hr> <a href="Clock/Realtime Clock module (DS1307 or HW111)/README.md"> more info...</a> 
 |:vomiting_face:|||| <img src="Clock/Realtime Clock module (DS3231 or HW084)/DS3231_Photo.jpg" alt="Photo of the component" width="200">|Realtime Clock module (DS3231 or HW084) <hr> <a href="Clock/Realtime Clock module (DS3231 or HW084)/README.md"> more info...</a> 
 |:vomiting_face:|||| <img src="Clock/Realtime Clock module (PCF8563)/PCF8563_Photo.jpg" alt="Photo of the component" width="200">|Realtime Clock module (PCF8563)         <hr> <a href="Clock/Realtime Clock module (PCF8563)/README.md"> more info...</a> 
@@ -16,7 +16,7 @@
 # Communication
 |:vomiting_face: :grinning: |Kast|Lade|Bak  | Picture | Component| 
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:||||  <img src="Communication/Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200"> |Bluetooth Transceiver (HC-05)<hr><a href="Communication/Bluetooth Transceiver (HC-05)/README.md"> more info...</a> |  
+|:grinning:     ||||  <img src="Communication/Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200"> |Bluetooth Transceiver (HC-05)<hr><a href="Communication/Bluetooth Transceiver (HC-05)/README.md"> more info...</a> |  
 
 
 # Electronic Components
@@ -24,8 +24,8 @@ Components in the electronic circuit not programmable or readable to a microComp
 
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:||||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> ||Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
-|:grinning:||||<img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | 
+|:grinning:     ||||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> ||Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
+|:grinning:     ||||<img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | 
 |:vomiting_face:||||<img src="Components/Power Jack (PJ-002A)/PJ-002A_Photo.jpg" alt="Photo of the component" width="200">  |  Power Jack (PJ-002A)<hr><a href="Components/Power Jack (PJ-002A)/README.md"> more info...</a>| 
 |:vomiting_face:||||<img src="Components/Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD135)<hr> <a href="Components/Transistor (BD135)/README.md"> more info...</a>   | 
 |:vomiting_face:||||<img src="Components/Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD136)<hr> <a href="Components/Transistor (BD136)/README.md"> more info...</a>   | 
@@ -51,15 +51,15 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:vomiting_face:||||<img src="Environment/ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="Environment/ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  
 |:vomiting_face:||||<img src="Environment/Sound Sensor (ST1146)/ST1146_Photo.jpg" alt="Photo of the component" width="200">  |  Sound Sensor (ST1146)<hr><a href="Environment/Sound Sensor (ST1146)/README.md"> more info...</a>|  
 |:vomiting_face:||||<img src="Environment/Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">|Temperature (TC74) <hr> <a href="Environment/Temperature (TC74)/README.md"> more info...</a> | 
-|:grinning:||||<img src="Environment/Temperature Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|Temperature Humidity (DHT11) <hr> <a href="Environment/Temperature Humidity (DHT11)/README.md"> more info...</a> | 
-|:grinning:||||<img src="Environment/Temperature Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|Temperature Humidity (DHT22) <hr> <a href="Environment/Temperature Humidity (DHT22)/README.md"> more info...</a> | 
-|:grinning:||||<img src="Environment/Temperature Humidity Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|Temperature Humidity Pressure (BME280) <hr> <a href="Environment/Temperature Humidity Pressure (BME280)/README.md"> more info...</a> | 
+|:grinning:     ||||<img src="Environment/Temperature Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|Temperature Humidity (DHT11) <hr> <a href="Environment/Temperature Humidity (DHT11)/README.md"> more info...</a> | 
+|:grinning:     ||||<img src="Environment/Temperature Humidity (DHT22)/DHT22_Photo.jpg" alt="Photo of the component" width="200">|Temperature Humidity (DHT22) <hr> <a href="Environment/Temperature Humidity (DHT22)/README.md"> more info...</a> | 
+|:grinning:     ||||<img src="Environment/Temperature Humidity Pressure (BME280)/BME280_Photo.jpg" alt="Photo of the component" width="200">|Temperature Humidity Pressure (BME280) <hr> <a href="Environment/Temperature Humidity Pressure (BME280)/README.md"> more info...</a> | 
 |:vomiting_face:||||<img src="Environment/Temperature Humidity Pressure (SI7021)/SI7021_Photo.jpg" alt="Photo of the component" width="200">|Temperature Humidity Pressure (Si7021) <hr> <a href="Environment/Temperature Humidity Pressure (SI7021)/README.md"> more info...</a> | 
 
 # Memory
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:||||<img src="Memory/Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="200"> |Micro SD Card Adapter <hr> <a href="Memory/Micro SD Card Adapter/README.md"> more info...</a>       |  
+|:grinning:     ||||<img src="Memory/Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="200"> |Micro SD Card Adapter <hr> <a href="Memory/Micro SD Card Adapter/README.md"> more info...</a>       |  
 
 # Motor
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
@@ -71,25 +71,24 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:vomiting_face:||||Distance Time-of-Flight (VL53L0X) <hr> <a href="Movement/Distance Time-of-Flight (VL53L0X)/README.md"> more info...</a> | <img src="Movement/Distance Time-of-Flight (VL53L0X)/VL53L0X_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:||||Distance Ultrasonic sensor (HC-SR04) <hr> <a href="Movement/Distance Ultrasonic sensor (HC-SR04)/README.md"> more info...</a> | <img src="Movement/Distance Ultrasonic sensor (HC-SR04)/HC-SR04_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:||||Gyroscope Accelerometer (BMI160)<hr><a href="Movement/Gyroscope Accelerometer (BMI160)/README.md"> more info...</a> |  <img src="Movement/Gyroscope Accelerometer (BMI160)/BMI160_Photo.jpg" alt="Photo of the component" width="200"> |  
-|:vomiting_face:||||Gyroscope Accelerometer (MPU6050)<hr><a href="Movement/Gyroscope Accelerometer (MPU6050)/README.md"> more info...</a> |  <img src="Movement/Gyroscope Accelerometer (MPU6050)/MPU6050_Photo.jpg" alt="Photo of the component" width="200"> |  
-|:vomiting_face:||||Infrared Sensor (HW201)<hr><a href="Movement/Infrared Sensor (HW201)/README.md"> more info...</a> |  <img src="Movement/Infrared Sensor (HW201)/HW201_Photo.jpg" alt="Photo of the component" width="200"> |  
-|:vomiting_face:||||Magnetometer (MLX90393) <hr> <a href="Movement/Magnetometer (MLX90393)/README.md"> more info...</a>   |  <img src="Movement/Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="200"> |
-|:vomiting_face:||||PIR Module (HC-SR501)<hr><a href="Movement/PIR Module (HC-SR501)/README.md"> more info...</a>|  <img src="Movement/PIR Module (HC-SR501)/HC-SR501_Photo.jpg" alt="Photo of the component" width="200">  |
-
+|:vomiting_face:|||| <img src="Movement/Distance Time-of-Flight (VL53L0X)/VL53L0X_Photo.jpg" alt="Photo of the component" width="200">|Distance Time-of-Flight (VL53L0X) <hr> <a href="Movement/Distance Time-of-Flight (VL53L0X)/README.md"> more info...</a> |
+|:vomiting_face:||||<img src="Movement/Distance Ultrasonic sensor (HC-SR04)/HC-SR04_Photo.jpg" alt="Photo of the component" width="200">|Distance Ultrasonic sensor (HC-SR04) <hr> <a href="Movement/Distance Ultrasonic sensor (HC-SR04)/README.md"> more info...</a> | 
+|:vomiting_face:||||<img src="Movement/Gyroscope Accelerometer (BMI160)/BMI160_Photo.jpg" alt="Photo of the component" width="200"> |  Gyroscope Accelerometer (BMI160)<hr><a href="Movement/Gyroscope Accelerometer (BMI160)/README.md"> more info...</a> |  
+|:vomiting_face:||||<img src="Movement/Gyroscope Accelerometer (MPU6050)/MPU6050_Photo.jpg" alt="Photo of the component" width="200"> |  Gyroscope Accelerometer (MPU6050)<hr><a href="Movement/Gyroscope Accelerometer (MPU6050)/README.md"> more info...</a> |  
+|:vomiting_face:||||<img src="Movement/Infrared Sensor (HW201)/HW201_Photo.jpg" alt="Photo of the component" width="200">    |Infrared Sensor (HW201)<hr><a href="Movement/Infrared Sensor (HW201)/README.md"> more info...</a> |  
+|:vomiting_face:||||<img src="Movement/Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="200"> |Magnetometer (MLX90393) <hr> <a href="Movement/Magnetometer (MLX90393)/README.md"> more info...</a>|  
+|:vomiting_face:||||<img src="Movement/PIR Module (HC-SR501)/HC-SR501_Photo.jpg" alt="Photo of the component" width="200">   |PIR Module (HC-SR501)<hr><a href="Movement/PIR Module (HC-SR501)/README.md"> more info...</a>|  
 
 # Switch
 |:vomiting_face: :grinning:|Kast|Lade|Bak| Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:||||RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | <img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:||||Switch Button<hr><a href="Switches/Switch Button/README.md"> more info...</a>|  <img src="Switches/Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:vomiting_face:||||Switch Capacitieve Touch Button (HW139)<hr><a href="Switches/Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  <img src="Switches/Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  
-|:grinning:||||Keypad 3x4<hr> <a href="Switches/Keypad 3x4/README.md"> more info...</a> | <img src="Switches/Keypad 3x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:||||Keypad 4x4<hr> <a href="Switches/Keypad 4x4/README.md"> more info...</a> | <img src="Switches/Keypad 4x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:||||Keypad Membrame<hr> <a href="Switches/Keypad Membrame/README.md"> more info...</a> | <img src="Switches/Keypad Membrame/Keypad_Photo.jpg" alt="Photo of the component" width="200">|
-|:vomiting_face:||||Switch Rotery (RS1010)<hr> <a href="Switches/Switch Rotery (RS1010)/README.md"> more info...</a> | <img src="Switches/Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|
+|:grinning:     ||||<img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | 
+|:vomiting_face:||||<img src="Switches/Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Button<hr><a href="Switches/Switch Button/README.md"> more info...</a>|  
+|:vomiting_face:||||<img src="Switches/Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Capacitieve Touch Button (HW139)<hr><a href="Switches/Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  
+|:grinning:     ||||<img src="Switches/Keypad 3x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad 3x4<hr> <a href="Switches/Keypad 3x4/README.md"> more info...</a> | 
+|:vomiting_face:||||<img src="Switches/Keypad 4x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad 4x4<hr> <a href="Switches/Keypad 4x4/README.md"> more info...</a> | 
+|:vomiting_face:||||<img src="Switches/Keypad Membrame/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad Membrame<hr> <a href="Switches/Keypad Membrame/README.md"> more info...</a> | 
+|:vomiting_face:||||<img src="Switches/Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|Switch Rotery (RS1010)<hr> <a href="Switches/Switch Rotery (RS1010)/README.md"> more info...</a> | 
 
 # microController / microComputer
 
