@@ -24,7 +24,7 @@ Components in the electronic circuit not programmable or readable to a microComp
 
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:     ||||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> ||Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
+|:grinning:     ||||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> |Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
 |:grinning:     ||||<img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | 
 |:vomiting_face:||||<img src="Components/Power Jack (PJ-002A)/PJ-002A_Photo.jpg" alt="Photo of the component" width="200">  |  Power Jack (PJ-002A)<hr><a href="Components/Power Jack (PJ-002A)/README.md"> more info...</a>| 
 |:vomiting_face:||||<img src="Components/Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD135)<hr> <a href="Components/Transistor (BD135)/README.md"> more info...</a>   | 
