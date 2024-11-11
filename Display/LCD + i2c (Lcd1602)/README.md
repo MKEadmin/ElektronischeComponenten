@@ -2,9 +2,6 @@
 <img src="Lcd1602_Photo.jpg" alt="Photo of the component">
 <img src="Lcd1602_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 The LCD1602 with an I2C module is a 16x2 character display that can show two rows of 16 characters each. It’s widely used in microcontroller projects due to its simplicity and ease of use. When equipped with an I2C (Inter-Integrated Circuit) module, it reduces the number of required data pins from the typical 8 or more down to just 4 (VCC, GND, SDA, and SCL). This makes it more efficient for use with microcontrollers like Arduino, ESP32, and Raspberry Pi, especially when working with limited GPIO pins.
 

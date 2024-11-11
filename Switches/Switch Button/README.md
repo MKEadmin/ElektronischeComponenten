@@ -2,9 +2,6 @@
 <img src="Switch Button_Photo.jpg" alt="Photo of the component">
 <img src="Switch Button_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 
 

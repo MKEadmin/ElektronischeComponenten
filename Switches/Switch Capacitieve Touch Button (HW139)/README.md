@@ -2,9 +2,6 @@
 <img src="HW139_Photo.jpg" alt="Photo of the component">
 <img src="HW139_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 The HW-139 Capacitive Touch Button is a capacitive touch sensor module designed to replace traditional mechanical push buttons in various electronic applications. It uses capacitive sensing technology to detect touch, providing a more reliable and durable alternative to mechanical buttons, which can wear out over time. The HW-139 is commonly used in DIY projects, home automation, and any applications where a touch-sensitive control interface is desirable.
 

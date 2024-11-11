@@ -2,9 +2,6 @@
 <img src="HC-05_Photo.jpg" alt="Photo of the component">
 <img src="HC-05_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 The HC-05 is a popular Bluetooth module used to provide wireless serial communication in embedded systems. It supports both master and slave modes, making it versatile for a wide range of applications where wireless serial data transfer is required. Here’s a detailed description:
 

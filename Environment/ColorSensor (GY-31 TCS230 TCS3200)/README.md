@@ -2,9 +2,6 @@
 <img src="TCS230_Photo.jpg" alt="Photo of the component">
 <img src="TCS230_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 The GY-31 is a color recognition sensor module based on the TCS3200/TCS230 color sensor. It is commonly used in electronics projects to detect and measure colors. The sensor uses an array of photodiodes to detect different wavelengths of light and provides corresponding frequency outputs, which can be processed to identify colors. The GY-31 is widely used in robotics, sorting machines, and various other applications that require color detection.
 

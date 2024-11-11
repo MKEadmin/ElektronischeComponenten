@@ -2,9 +2,6 @@
 <img src="ST1146_Photo.jpg" alt="Photo of the component">
 <img src="ST1146_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 The ST1146 sound sensor is a compact and versatile device designed for detecting sound levels in various applications. It is commonly used in projects involving sound detection, audio processing, and sound-triggered events. The sensor can be integrated into a wide range of products, from simple DIY electronics to sophisticated audio systems.
 

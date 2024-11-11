@@ -2,9 +2,6 @@
 <img src="RC522_Photo.jpg" alt="Photo of the component">
 <img src="RC522_QR.png" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 
 The **RC522** is an RFID (Radio-Frequency Identification) module designed for contactless communication, allowing devices to read from and write to RFID cards or tags. Operating at a frequency of 13.56 MHz, the RC522 can interface seamlessly with popular microcontrollers like Arduino, ESP32, and Raspberry Pi via the SPI protocol. Its integrated antenna and robust design make it a versatile tool for applications like access control, security, and identification.

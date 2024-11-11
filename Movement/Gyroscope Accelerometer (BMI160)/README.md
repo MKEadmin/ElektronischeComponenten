@@ -2,9 +2,6 @@
 <img src="BMI160_Photo.jpg" alt="Photo of the component">
 <img src="BMI160_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 The BMI160 is an inertial measurement unit (IMU) from Bosch Sensortec that combines a 3-axis accelerometer and a 3-axis gyroscope in a single package. It is designed to provide accurate motion detection and orientation sensing for a wide range of applications, such as smartphones, wearables, drones, robotics, and other embedded systems. The sensor is highly popular for its low power consumption, small form factor, and ease of integration with microcontrollers and microprocessors.
 

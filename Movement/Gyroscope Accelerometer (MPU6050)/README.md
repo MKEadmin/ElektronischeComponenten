@@ -2,9 +2,6 @@
 <img src="MPU6050_Photo.jpg" alt="Photo of the component">
 <img src="MPU60500_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
-## Where stored
-Cupboard __1__ Drawer __2__  position __A3__
-
 ## Description
 The MPU6050 is a widely used 6-axis Inertial Measurement Unit (IMU) sensor that integrates a 3-axis accelerometer and a 3-axis gyroscope on a single chip. Developed by InvenSense, the MPU6050 is designed to measure acceleration, rotation, and motion for various applications, including robotics, drones, gaming, and mobile devices. The sensor is known for its high performance, low power consumption, and digital motion processing capabilities, which make it a popular choice for motion-sensing applications.
 
