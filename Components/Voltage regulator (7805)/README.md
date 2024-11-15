@@ -66,3 +66,6 @@ The 7805 voltage regulator is a reliable and easy-to-use component for providing
 
 ## Wiring
 <img src="7805_Wiring.jpg" alt="Wiring" >
+
+In the folder Fusion360 there is a file [7805 Voeding.fsch]. This is a Fusion 360 project file with the complete wiring as show above. OPen this file in Fusion360 and copy the parts to your project. This includes the correct capasitors.
+
