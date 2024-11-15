@@ -1,4 +1,4 @@
-## Header Pin
+## Breadboard voeding converter
 
 <img src="OT150-B75_Photo.jpg" alt="Photo of the component">
 <img src="OT150-B75_QR_code.jpg" alt="QR code to this page" width="80" height="80">
