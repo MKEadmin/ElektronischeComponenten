@@ -104,4 +104,4 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:vomiting_face:|||| <img src="Measuring equipment/USB-Tester (FNB58)/FNB58_Photo.jpg" alt="Photo of the component" width="200">|USB-Tester (FNB58)<hr> <a href="Measuring equipment/RUSB-Tester (FNB58)/README.md"> more info...</a> 
+|:vomiting_face:|||| <img src="Measuring equipment/USB-Tester (FNB58)/FNB58_Photo.jpg" alt="Photo of the component" width="200">|USB-Tester (FNB58)<hr> <a href="Measuring equipment/USB-Tester (FNB58)/README.md"> more info...</a> 
