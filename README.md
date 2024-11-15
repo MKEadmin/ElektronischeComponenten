@@ -24,8 +24,9 @@ Components in the electronic circuit not programmable or readable to a microComp
 
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:     ||||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> |Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
-|:grinning:     ||||<img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | 
+|:vomiting_face:||||<img src="Components/Breadboard voeding converter (OT150-B75)/OT150-B75_Photo.jpg" alt="Photo of the component" width="200">| Breadboard voeding converter (OT150-B75)<hr> <a href="Components/Breadboard voeding converter (OT150-B75)/README.md"> more info...</a>    |
+|:grinning:          ||||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> |Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
+|:grinning:          ||||<img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | 
 |:vomiting_face:||||<img src="Components/Power Jack (DC005)/DC005_Photo.jpg" alt="Photo of the component" width="200">  |  Power Jack (DC005)<hr><a href="Components/Power Jack (DC005)/README.md"> more info...</a>| 
 |:vomiting_face:||||<img src="Components/Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD135)<hr> <a href="Components/Transistor (BD135)/README.md"> more info...</a>   | 
 |:vomiting_face:||||<img src="Components/Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD136)<hr> <a href="Components/Transistor (BD136)/README.md"> more info...</a>   | 
