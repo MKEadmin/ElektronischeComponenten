@@ -65,8 +65,8 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 # Motor
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:vomiting_face:||||<img src="Motor/Servo Motor (SG90)/SG90_Photo.jpg" alt="Photo of the component" width="200">|Servo Motor (SG90)<hr> <a href="Motor/Servo Motor (SG90)/README.md"> more info...</a> | 
-|:vomiting_face:||||<img src="Motor/Servo Motor Driver Board (PCA9685)/PCA9685_Photo.jpg" alt="Photo of the component" width="200"> |Servo Motor Driver Board (PCA9685) <hr> <a href="Motor/Servo Motor Driver Board (PCA9685)/README.md"> more info...</a> | 
+|:vomiting_face:|D|7||<img src="Motor/Servo Motor (SG90)/SG90_Photo.jpg" alt="Photo of the component" width="200">|Servo Motor (SG90)<hr> <a href="Motor/Servo Motor (SG90)/README.md"> more info...</a> | 
+|:vomiting_face:|D|1||<img src="Motor/Servo Motor Driver Board (PCA9685)/PCA9685_Photo.jpg" alt="Photo of the component" width="200"> |Servo Motor Driver Board (PCA9685) <hr> <a href="Motor/Servo Motor Driver Board (PCA9685)/README.md"> more info...</a> | 
 
 # Movement
 
@@ -83,22 +83,22 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 # Switch
 |:vomiting_face: :grinning:|Kast|Lade|Bak| Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:grinning:     ||||<img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | 
-|:vomiting_face:||||<img src="Switches/Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Button<hr><a href="Switches/Switch Button/README.md"> more info...</a>|  
-|:vomiting_face:||||<img src="Switches/Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Capacitieve Touch Button (HW139)<hr><a href="Switches/Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  
-|:grinning:     ||||<img src="Switches/Keypad 3x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad 3x4<hr> <a href="Switches/Keypad 3x4/README.md"> more info...</a> | 
-|:vomiting_face:||||<img src="Switches/Keypad 4x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad 4x4<hr> <a href="Switches/Keypad 4x4/README.md"> more info...</a> | 
-|:vomiting_face:||||<img src="Switches/Keypad Membrame/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad Membrame<hr> <a href="Switches/Keypad Membrame/README.md"> more info...</a> | 
-|:vomiting_face:||||<img src="Switches/Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|Switch Rotery (RS1010)<hr> <a href="Switches/Switch Rotery (RS1010)/README.md"> more info...</a> | 
+|:grinning:     |A|3||<img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | 
+|:vomiting_face:|B|2||<img src="Switches/Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Button<hr><a href="Switches/Switch Button/README.md"> more info...</a>|  
+|:vomiting_face:|A|3||<img src="Switches/Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Capacitieve Touch Button (HW139)<hr><a href="Switches/Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  
+|:grinning:     |A|4||<img src="Switches/Keypad 3x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad 3x4<hr> <a href="Switches/Keypad 3x4/README.md"> more info...</a> | 
+|:vomiting_face:|A|4||<img src="Switches/Keypad 4x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad 4x4<hr> <a href="Switches/Keypad 4x4/README.md"> more info...</a> | 
+|:vomiting_face:|A|4||<img src="Switches/Keypad Membrame/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad Membrame<hr> <a href="Switches/Keypad Membrame/README.md"> more info...</a> | 
+|:vomiting_face:|A|6||<img src="Switches/Switch Rotery (RS1010)/RS1010_Photo.jpg" alt="Photo of the component" width="200">|Switch Rotery (RS1010)<hr> <a href="Switches/Switch Rotery (RS1010)/README.md"> more info...</a> | 
 
 # microController / microComputer
 
 |:vomiting_face: :grinning: |Kast|Lade|Bak|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|||| <img src="microController/Raspberry-Pi/Raspberry-Pi_Pinout.jpg" alt="Photo of the component" width="200">|Raspberry-Pi<hr> <a href="microController/Raspberry-Pi/README.md"> more info...</a> 
-|:vomiting_face:|||| <img src="microController/Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|Arduino-UNO <hr> <a href="microController/Arduino-UNO/README.md"> more info...</a>
+|:vomiting_face:|A|7|| <img src="microController/Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|Arduino-UNO <hr> <a href="microController/Arduino-UNO/README.md"> more info...</a>
 |:vomiting_face:|||| <img src="microController/Raspberry-Pico/Pico-R3-A4_Pinout.jpg" alt="Photo of the component" width="200">|Raspberry Pi Pico <hr> <a href="microController/Raspberry-Pico/README.md"> more info...</a> 
-|:vomiting_face:|||| <img src="microController/WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">|WeMos <hr> <a href="microController/WeMos/README.md"> more info...</a>
+|:vomiting_face:|A|7|| <img src="microController/WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">|WeMos <hr> <a href="microController/WeMos/README.md"> more info...</a>
 
 # Measuring equipment
 
