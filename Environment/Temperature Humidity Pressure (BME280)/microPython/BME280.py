@@ -260,28 +260,43 @@ class BME280:
     h = 419430400 if h > 419430400 else h
     return h >> 12
 
-  @property
-  def temperature(self):
+  def getTemperature(self):
     "Return the temperature in degrees."
     t = self.read_temperature()
     ti = t // 100
     td = t - ti * 100
-    return "{}.{:02d}C".format(ti, td)
+    return t / 100, ti, td
 
   @property
-  def pressure(self):
+  def temperature(self):
+    "Return the temperature in degrees."
+    f, ti, td = self.getTemperature()
+    return "{}.{:02d}C".format(ti, td)
+
+  def getPressure(self):
     "Return the temperature in hPa."
     p = self.read_pressure() // 256
     pi = p // 100
     pd = p - pi * 100
-    return "{}.{:02d}hPa".format(pi, pd)
+    return p / 100, pi, pd
 
   @property
-  def humidity(self):
+  def pressure(self):
+    "Return the temperature in hPa."    
+    f, pi , pd = self.getPressure()
+    return "{}.{:02d}hPa".format(pi, pd)
+
+  def getHumidity(self):
     "Return the humidity in percent."
     h = self.read_humidity()
     hi = h // 1024
     hd = h * 100 // 1024 - hi * 100
+    return h / 1024, hi, hd
+
+  @property
+  def humidity(self):
+    "Return the humidity in percent."
+    f, hi, hd = self.getHumidity()
     return "{}.{:02d}%".format(hi, hd)
 
 
