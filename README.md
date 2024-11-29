@@ -1,6 +1,6 @@
 # This site..
 Electronic components at SmartLab daVinci College, Dordrecht
-<a href="https://tinyurl.com/yyyfs9na"><p>https://tinyurl.com/yyyfs9na</p><p><img src="qr_ElektronischeComponenten.png" alt="QR-Code" width="300"></p> </a>
+<a href="Kast/README.md"> more info...</a> 
 
 # ADC / DAC
 
