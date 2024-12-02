@@ -1,6 +1,6 @@
 # This site..
 Electronic components at SmartLab daVinci College, Dordrecht
-<a href="Kast/README.md"> more info...</a> 
+<a href="Kasten/README.md"> more info...</a> 
 
 # ADC / DAC
 
