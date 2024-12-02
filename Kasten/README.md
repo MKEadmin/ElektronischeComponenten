@@ -1,3 +1,5 @@
+Inhoud kasten op : 02-12-2024
+
 ## KAST A
 <img src="KAST_A_1.jpeg" alt="lade 1">
 <img src="KAST_A_2.jpeg" alt="lade 2">
