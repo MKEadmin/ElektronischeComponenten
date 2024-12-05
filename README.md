@@ -29,6 +29,8 @@ Components in the electronic circuit not programmable or readable to a microComp
 |:vomiting_face: :grinning: |Kast|Bak|AK|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|B3|||<img src="Components/Breadboard voeding converter (OT150-B75)/OT150-B75_Photo.jpg" alt="Photo of the component" width="200">| Breadboard voeding converter (OT150-B75)<hr> <a href="Components/Breadboard voeding converter (OT150-B75)/README.md"> more info...</a>    |
+|:vomiting_face:|A1|||<img src="Components/Diode (1N4007)/1N4007_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4007)<hr> <a href="Components/Diode (1N4007)/README.md"> more info...</a>    | 
+|:vomiting_face:|A1|||<img src="Components/Diode (1N4148)/1N4148_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4148)<hr> <a href="Components/Diode (1N4148)/README.md"> more info...</a>    | 
 |:grinning:     |C2|||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> |Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
 |:vomiting_face:|A1|||<img src="Components/LED 5mm/LED_Photo.jpg" alt="Photo of the component" width="200"> |LED 5mm<hr> <a href="Components/LED 5mm/README.md"> more info...</a>    | 
 |:vomiting_face:|A1|||<img src="Components/LED RGB 5mm/LED RGB_Photo.jpg" alt="Photo of the component" width="200"> |LED RGB 5mm<hr> <a href="Components/LED RGB 5mm/README.md"> more info...</a>    | 
