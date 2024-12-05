@@ -82,7 +82,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:vomiting_face:||||<img src="Movement/Gyroscope Accelerometer (MPU6050)/MPU6050_Photo.jpg" alt="Photo of the component" width="200"> |  Gyroscope Accelerometer (MPU6050)<hr><a href="Movement/Gyroscope Accelerometer (MPU6050)/README.md"> more info...</a> |  
 |:vomiting_face:||||<img src="Movement/Infrared Sensor (TCRT5000)/TCRT5000_Photo.jpg" alt="Photo of the component" width="200">    |Infrared Sensor (TCRT5000)<hr><a href="Movement/Infrared Sensor (TCRT5000)/README.md"> more info...</a> |  
 |:vomiting_face:||||<img src="Movement/Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="200"> |Magnetometer (MLX90393) <hr> <a href="Movement/Magnetometer (MLX90393)/README.md"> more info...</a>|  
-|:vomiting_face:||||<img src="Movement/PIR Module (HC-SR501)/HC-SR501_Photo.jpg" alt="Photo of the component" width="200">   |PIR Module (HC-SR501)<hr><a href="Movement/PIR Module (HC-SR501)/README.md"> more info...</a>|  
+|:vomiting_face:|D7|||<img src="Movement/PIR Module (HC-SR501)/HC-SR501_Photo.jpg" alt="Photo of the component" width="200">   |PIR Module (HC-SR501)<hr><a href="Movement/PIR Module (HC-SR501)/README.md"> more info...</a>|  
 
 # Switch
 |:vomiting_face: :grinning:|Kast|Bak|AK| Picture | Component  |
@@ -99,9 +99,9 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 
 |:vomiting_face: :grinning: |Kast|Bak|AK|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|:vomiting_face:|  ||| <img src="microController/Raspberry-Pi/Raspberry-Pi_Pinout.jpg" alt="Photo of the component" width="200">|Raspberry-Pi<hr> <a href="microController/Raspberry-Pi/README.md"> more info...</a> 
+|:vomiting_face:|A7||| <img src="microController/Raspberry-Pi/Raspberry-Pi_Pinout.jpg" alt="Photo of the component" width="200">|Raspberry-Pi<hr> <a href="microController/Raspberry-Pi/README.md"> more info...</a> 
 |:vomiting_face:|A7||| <img src="microController/Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|Arduino-UNO <hr> <a href="microController/Arduino-UNO/README.md"> more info...</a>
-|:vomiting_face:|  ||| <img src="microController/Raspberry-Pico/Pico-R3-A4_Pinout.jpg" alt="Photo of the component" width="200">|Raspberry Pi Pico <hr> <a href="microController/Raspberry-Pico/README.md"> more info...</a> 
+|:vomiting_face:|A7||| <img src="microController/Raspberry-Pico/Pico-R3-A4_Pinout.jpg" alt="Photo of the component" width="200">|Raspberry Pi Pico <hr> <a href="microController/Raspberry-Pico/README.md"> more info...</a> 
 |:vomiting_face:|A7||| <img src="microController/WeMos/WeMosD1Mini_Pinout.jpg" alt="Photo of the component" width="200">|WeMos <hr> <a href="microController/WeMos/README.md"> more info...</a>
 
 # Measuring equipment
