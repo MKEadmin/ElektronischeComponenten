@@ -5,13 +5,13 @@ Electronic components at SmartLab daVinci College, Dordrecht
 # ADC / DAC
 
 |:vomiting_face: :grinning: |Kast|AK  | Picture | Component|
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:grinning:     |A3||<img src="ADC_DAC/ADC (ADS1115)/ADS1115_Photo.jpg" alt="Photo of the component" width="200">  |ADC (ADS1115) <hr><a href="ADC_DAC/ADC (ADS1115)/README.md"> more info...</a>|
 |:vomiting_face:|A3||  <img src="ADC_DAC/DAC (MCP4725)/MCP4725_Photo.jpg" alt="Photo of the component" width="200">  |DAC (MCP4725) <hr><a href="ADC_DAC/DAC (MCP4725)/README.md"> more info...</a>|
 
 # Clock
 |:vomiting_face: :grinning:|Kast|AK|Component| Picture | 
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:grinning:     |A3|| <img src="Clock/Realtime Clock module (DS1302)/DS1302_Photo.jpg" alt="Photo of the component" width="200">|Realtime Clock module (DS1302) <hr> <a href="Clock/Realtime Clock module (DS1302)/README.md"> more info...</a> 
 |:vomiting_face:|A3|| <img src="Clock/Realtime Clock module (DS1307 or HW111)/HW111_Photo.jpg" alt="Photo of the component" width="200">|Realtime Clock module (DS1307 or HW111) <hr> <a href="Clock/Realtime Clock module (DS1307 or HW111)/README.md"> more info...</a> 
 |:vomiting_face:|A3|| <img src="Clock/Realtime Clock module (DS3231 or HW084)/DS3231_Photo.jpg" alt="Photo of the component" width="200">|Realtime Clock module (DS3231 or HW084) <hr> <a href="Clock/Realtime Clock module (DS3231 or HW084)/README.md"> more info...</a> 
@@ -19,7 +19,7 @@ Electronic components at SmartLab daVinci College, Dordrecht
 
 # Communication
 |:vomiting_face: :grinning: |Kast|AK  | Picture | Component| 
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:grinning:     |A3||  <img src="Communication/Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200"> |Bluetooth Transceiver (HC-05)<hr><a href="Communication/Bluetooth Transceiver (HC-05)/README.md"> more info...</a> |  
 
 
@@ -27,7 +27,7 @@ Electronic components at SmartLab daVinci College, Dordrecht
 Components in the electronic circuit not programmable or readable to a microComputer / microController
 
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|B3||<img src="Components/Breadboard voeding converter (OT150-B75)/OT150-B75_Photo.jpg" alt="Photo of the component" width="200">| Breadboard voeding converter (OT150-B75)<hr> <a href="Components/Breadboard voeding converter (OT150-B75)/README.md"> more info...</a>    |
 |:vomiting_face:|A1||<img src="Components/Diode (1N4007)/1N4007_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4007)<hr> <a href="Components/Diode (1N4007)/README.md"> more info...</a>    | 
 |:vomiting_face:|A1||<img src="Components/Diode (1N4148)/1N4148_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4148)<hr> <a href="Components/Diode (1N4148)/README.md"> more info...</a>    | 
@@ -47,7 +47,7 @@ Components in the electronic circuit not programmable or readable to a microComp
 Different kind of displays and presentation controlled by a microComputer/ microController
 
 |:vomiting_face: :grinning: |Kast|AK| Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|A2||<img src="Display/LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |LED 7-Segment (HT16K33)<hr><a href="Display/LED 7-Segment (HT16K33)/README.md"> more info...</a>|  
 |:vomiting_face:|A2||<img src="Display/LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |LED RGB (WS2812) <hr><a href="Display/LED RGB (WS2812)/README.md"> more info...</a>| 
 |:grinning:     |A4||<img src="Display/LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  LCD + i2c (Lcd1602) <hr> <a href="Display/LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  
@@ -58,7 +58,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 # Enviroment
 
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|||<img src="Environment/ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="Environment/ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  
 |:vomiting_face:|||<img src="Environment/Sound Sensor (ST1146)/ST1146_Photo.jpg" alt="Photo of the component" width="200">  |  Sound Sensor (ST1146)<hr><a href="Environment/Sound Sensor (ST1146)/README.md"> more info...</a>|  
 |:vomiting_face:|||<img src="Environment/Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">|Temperature (TC74) <hr> <a href="Environment/Temperature (TC74)/README.md"> more info...</a> | 
@@ -69,19 +69,19 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 
 # Memory
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:grinning:     |||<img src="Memory/Micro SD Card Adapter/Micro SD Card Adapter_Photo.jpg" alt="Photo of the component" width="200"> |Micro SD Card Adapter <hr> <a href="Memory/Micro SD Card Adapter/README.md"> more info...</a>       |  
 
 # Motor
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|D7||<img src="Motor/Servo Motor (SG90)/SG90_Photo.jpg" alt="Photo of the component" width="200">|Servo Motor (SG90)<hr> <a href="Motor/Servo Motor (SG90)/README.md"> more info...</a> | 
 |:vomiting_face:|D1||<img src="Motor/Servo Motor Driver Board (PCA9685)/PCA9685_Photo.jpg" alt="Photo of the component" width="200"> |Servo Motor Driver Board (PCA9685) <hr> <a href="Motor/Servo Motor Driver Board (PCA9685)/README.md"> more info...</a> | 
 
 # Movement
 
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:||| <img src="Movement/Distance Time-of-Flight (VL53L0X)/VL53L0X_Photo.jpg" alt="Photo of the component" width="200">|Distance Time-of-Flight (VL53L0X) <hr> <a href="Movement/Distance Time-of-Flight (VL53L0X)/README.md"> more info...</a> |
 |:vomiting_face:|||<img src="Movement/Distance Ultrasonic sensor (HC-SR04)/HC-SR04_Photo.jpg" alt="Photo of the component" width="200">|Distance Ultrasonic sensor (HC-SR04) <hr> <a href="Movement/Distance Ultrasonic sensor (HC-SR04)/README.md"> more info...</a> | 
 |:vomiting_face:|||<img src="Movement/Gyroscope Accelerometer (BMI160)/BMI160_Photo.jpg" alt="Photo of the component" width="200"> |  Gyroscope Accelerometer (BMI160)<hr><a href="Movement/Gyroscope Accelerometer (BMI160)/README.md"> more info...</a> |  
@@ -92,7 +92,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 
 # Switch
 |:vomiting_face: :grinning:|Kast|AK| Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:grinning:     |A3||<img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | 
 |:vomiting_face:|B2||<img src="Switches/Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Button<hr><a href="Switches/Switch Button/README.md"> more info...</a>|  
 |:vomiting_face:|A3||<img src="Switches/Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Capacitieve Touch Button (HW139)<hr><a href="Switches/Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  
@@ -104,7 +104,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 # microController / microComputer
 
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|A7|| <img src="microController/Raspberry-Pi/Raspberry-Pi_Pinout.jpg" alt="Photo of the component" width="200">|Raspberry-Pi<hr> <a href="microController/Raspberry-Pi/README.md"> more info...</a> 
 |:vomiting_face:|A7|| <img src="microController/Arduino-UNO/ArduinoUno_Pinout.jpg" alt="Photo of the component" width="200">|Arduino-UNO <hr> <a href="microController/Arduino-UNO/README.md"> more info...</a>
 |:vomiting_face:|A7|| <img src="microController/Raspberry-Pico/Pico-R3-A4_Pinout.jpg" alt="Photo of the component" width="200">|Raspberry Pi Pico <hr> <a href="microController/Raspberry-Pico/README.md"> more info...</a> 
@@ -113,6 +113,6 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 # Measuring equipment
 
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
-|:--:|:---:|:---:|:---:|:---:|:---:|
+|:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:||| <img src="Measuring equipment/USB-Tester (FNB58)/FNB58_Photo.jpg" alt="Photo of the component" width="200">|USB-Tester (FNB58)<hr> <a href="Measuring equipment/USB-Tester (FNB58)/README.md"> more info...</a> 
 
