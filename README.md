@@ -49,7 +49,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:vomiting_face: :grinning: |Kast|AK| Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|A2||<img src="Display/LED 7-Segment (HT16K33)/HT16K33_Photo.jpg" alt="Photo of the component" width="200">  |LED 7-Segment (HT16K33)<hr><a href="Display/LED 7-Segment (HT16K33)/README.md"> more info...</a>|  
-|:vomiting_face:|A2||<img src="Display/LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |LED RGB (WS2812) <hr><a href="Display/LED RGB (WS2812)/README.md"> more info...</a>| 
+|:vomiting_face:|A1||<img src="Display/LED RGB (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200">  |LED RGB (WS2812) <hr><a href="Display/LED RGB (WS2812)/README.md"> more info...</a>| 
 |:grinning:     |A4||<img src="Display/LCD + i2c (Lcd1602)/Lcd1602_Photo.jpg" alt="Photo of the component" width="200">  |  LCD + i2c (Lcd1602) <hr> <a href="Display/LCD + i2c (Lcd1602)/README.md"> more info...</a>           |  
 |:grinning:     |A5||<img src="Display/Matrix (Max7219)/Max7219_Photo.jpg" alt="Photo of the component" width="200"> |Matrix (Max7219)  <hr><a href="Display/Matrix (Max7219)/README.md"> more info...</a> | 
 |:vomiting_face:|A5||<img src="Display/Neopixel (WS2812)/WS2812_Photo.jpg" alt="Photo of the component" width="200"> |  Neopixel (WS2812)<hr><a href="Display/Neopixel (WS2812)/README.md"> more info...</a> |  
