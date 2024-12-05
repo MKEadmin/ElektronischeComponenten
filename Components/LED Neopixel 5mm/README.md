@@ -5,12 +5,12 @@
 
 ## Description
 NeoPixel LEDs are smart RGB LEDs that can be individually controlled for color and brightness using a single data line. They are based on WS2812B or similar ICs, which integrate the LED and the controller into one package. These LEDs are popular for projects that require complex lighting effects, as they allow for easy chaining and require minimal wiring.
-
+```
 DIN -> Connect to the digital Pin
 DOUT -> Connect to the DIN of the next neo pixel
 VDD -> 5 V
 VSS/GROUND -> Connect to ground
-
+```
 Key Features of NeoPixel LEDs:
 
 	1.	Integrated Controller:
