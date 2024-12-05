@@ -1,3 +1,7 @@
+"""
+    Version daVinci College - Smart Technology
+"""
+
 from machine import I2C
 import time
 
@@ -261,42 +265,40 @@ class BME280:
     return h >> 12
 
   def getTemperature(self):
-    "Return the temperature in degrees."
     t = self.read_temperature()
     ti = t // 100
     td = t - ti * 100
-    return t / 100, ti, td
+    return ti, td, t/100
+
+  def getPressure(self):
+    p = self.read_pressure() // 256
+    pi = p // 100
+    pd = p - pi * 100
+    return pi, pd, p / 100
+
+  def getHumidity(self):
+    h = self.read_humidity()
+    hi = h // 1024
+    hd = h * 100 // 1024 - hi * 100
+    return hi, hd, h / 1024
 
   @property
   def temperature(self):
     "Return the temperature in degrees."
-    f, ti, td = self.getTemperature()
+    ti, td, t = self.getTemperature()
     return "{}.{:02d}C".format(ti, td)
-
-  def getPressure(self):
-    "Return the temperature in hPa."
-    p = self.read_pressure() // 256
-    pi = p // 100
-    pd = p - pi * 100
-    return p / 100, pi, pd
 
   @property
   def pressure(self):
-    "Return the temperature in hPa."    
-    f, pi , pd = self.getPressure()
+    "Return the temperature in hPa."
+    pi, pd, p = self.getPressure()
     return "{}.{:02d}hPa".format(pi, pd)
-
-  def getHumidity(self):
-    "Return the humidity in percent."
-    h = self.read_humidity()
-    hi = h // 1024
-    hd = h * 100 // 1024 - hi * 100
-    return h / 1024, hi, hd
 
   @property
   def humidity(self):
     "Return the humidity in percent."
-    f, hi, hd = self.getHumidity()
+    hi, hd, h = self.gethumidity()
     return "{}.{:02d}%".format(hi, hd)
+
 
 
