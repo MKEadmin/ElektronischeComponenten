@@ -33,9 +33,11 @@ Components in the electronic circuit not programmable or readable to a microComp
 |:vomiting_face:|A1||<img src="Components/Diode (1N4007)/1N4007_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4007)<hr> <a href="Components/Diode (1N4007)/README.md"> more info...</a>    | 
 |:vomiting_face:|A1||<img src="Components/Diode (1N4148)/1N4148_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4148)<hr> <a href="Components/Diode (1N4148)/README.md"> more info...</a>    | 
 |:grinning:     |C2||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> |Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
+|:vomiting_face:|A1||<img src="Components/LDR Resistor (5528)/5528_Photo.jpg" alt="Photo of the component" width="200"> |LDR Resistor (5528)<hr> <a href="Components/LDR Resistor (5528)/README.md"> more info...</a>    | 
 |:grinning:     |A1||<img src="Components/LED 5mm/LED_Photo.jpg" alt="Photo of the component" width="200"> |LED 5mm<hr> <a href="Components/LED 5mm/README.md"> more info...</a>    | 
 |:grinning:     |A1||<img src="Components/LED RGB 5mm/LED RGB_Photo.jpg" alt="Photo of the component" width="200"> |LED RGB 5mm<hr> <a href="Components/LED RGB 5mm/README.md"> more info...</a>    | 
 |:grinning:     |A1||<img src="Components/LED Neopixel 5mm/LED Neopixel_Photo.jpg" alt="Photo of the component" width="200"> |LED Neopixel 5mm<hr> <a href="Components/LED Neopixel 5mm/README.md"> more info...</a>    | 
+|:vomiting_face:|A1||<img src="Components/NTC Resistor/NTC_Photo.jpg" alt="Photo of the component" width="200"> |NTC Resistor<hr> <a href="Components/NTC Resistor/README.md"> more info...</a>    | 
 |:grinning:     |A3||<img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | 
 |:vomiting_face:|A1||<img src="Components/Optocoupler (4N35)/4N35_Photo.jpg" alt="Photo of the component" width="200">  |  Optocoupler (4N35)<hr><a href="Components/Optocoupler (4N35)/README.md"> more info...</a>| 
 |:vomiting_face:|B3||<img src="Components/Power Jack (DC005)/DC005_Photo.jpg" alt="Photo of the component" width="200">  |  Power Jack (DC005)<hr><a href="Components/Power Jack (DC005)/README.md"> more info...</a>| 
