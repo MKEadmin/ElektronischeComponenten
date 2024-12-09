@@ -28,6 +28,7 @@ Components in the electronic circuit not programmable or readable to a microComp
 
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|
+|:vomiting_face:|A6||<img src="Components/Breadboard/Breadboard_Photo.jpg" alt="Photo of the component" width="200">| Breadboard<hr> <a href="Components/Breadboard/README.md"> more info...</a>    |
 |:vomiting_face:|B3||<img src="Components/Breadboard voeding converter (OT150-B75)/OT150-B75_Photo.jpg" alt="Photo of the component" width="200">| Breadboard voeding converter (OT150-B75)<hr> <a href="Components/Breadboard voeding converter (OT150-B75)/README.md"> more info...</a>    |
 |:vomiting_face:|A1||<img src="Components/Diode (1N4007)/1N4007_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4007)<hr> <a href="Components/Diode (1N4007)/README.md"> more info...</a>    | 
 |:vomiting_face:|A1||<img src="Components/Diode (1N4148)/1N4148_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4148)<hr> <a href="Components/Diode (1N4148)/README.md"> more info...</a>    | 
