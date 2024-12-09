@@ -64,7 +64,7 @@ Tips for Accurate Measurement
 
 
 ## Order
-<a href="https://nl.aliexpress.com/item/1005006227628663.html">https://nl.aliexpress.com/item/1005006227628663.htm</a>
+<a href="https://nl.aliexpress.com/item/1005006223668873.html">https://nl.aliexpress.com/item/1005006223668873.html</a>
 <img src="SR505_Order.jpg" alt="Photo of the Order">
 
 
