@@ -88,7 +88,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:vomiting_face:|||<img src="Movement/Gyroscope Accelerometer (MPU6050)/MPU6050_Photo.jpg" alt="Photo of the component" width="200"> |  Gyroscope Accelerometer (MPU6050)<hr><a href="Movement/Gyroscope Accelerometer (MPU6050)/README.md"> more info...</a> |  
 |:vomiting_face:|A2||<img src="Movement/Infrared Sensor (TCRT5000)/TCRT5000_Photo.jpg" alt="Photo of the component" width="200">    |Infrared Sensor (TCRT5000)<hr><a href="Movement/Infrared Sensor (TCRT5000)/README.md"> more info...</a> |  
 |:vomiting_face:|A3||<img src="Movement/Laser Module Board (HW-493)/HW-493_Photo.jpg" alt="Photo of the component" width="200">    |Laser Module Board (HW-493)<hr><a href="Movement/Laser Module Board (HW-493)/README.md"> more info...</a> |  
-|:vomiting_face:|||<img src="Movement/Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="200"> |Magnetometer (MLX90393) <hr> <a href="Movement/Magnetometer (MLX90393)/README.md"> more info...</a>|  
+|:vomiting_face:|A3||<img src="Movement/Magnetometer (MLX90393)/MLX90393_Photo.jpg" alt="Photo of the component" width="200"> |Magnetometer (MLX90393) <hr> <a href="Movement/Magnetometer (MLX90393)/README.md"> more info...</a>|  
 |:vomiting_face:|D7||<img src="Movement/PIR Module (HC-SR501)/HC-SR501_Photo.jpg" alt="Photo of the component" width="200">   |PIR Module (HC-SR501)<hr><a href="Movement/PIR Module (HC-SR501)/README.md"> more info...</a>|  
 |:vomiting_face:|A1||<img src="Movement/PIR Module (SR505)/SR505_Photo.jpg" alt="Photo of the component" width="200">   |PIR Module (SR505)<hr><a href="Movement/PIR Module (SR505)/README.md"> more info...</a>|  
 
