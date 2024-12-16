@@ -1,4 +1,4 @@
-## NTC resistor
+## Potmeter
 
 <img src="Potmeter_Photo.jpg" alt="Photo of the component">
 <img src="Potmeter_QR_code.jpg" alt="QR code to this page" width="80" height="80">
