@@ -40,6 +40,7 @@ Components in the electronic circuit not programmable or readable to a microComp
 |:vomiting_face:|A1||<img src="Components/NTC Resistor/NTC_Photo.jpg" alt="Photo of the component" width="200"> |NTC Resistor<hr> <a href="Components/NTC Resistor/README.md"> more info...</a>    | 
 |:grinning:     |A3||<img src="Components/LevelShifter (HW221)/HW221_Photo.jpg" alt="Photo of the component" width="200"> |LevelShifter (HW221)<hr> <a href="Components/LevelShifter (HW221)/README.md"> more info...</a>    | 
 |:vomiting_face:|A1||<img src="Components/Optocoupler (4N35)/4N35_Photo.jpg" alt="Photo of the component" width="200">  |  Optocoupler (4N35)<hr><a href="Components/Optocoupler (4N35)/README.md"> more info...</a>| 
+|:vomiting_face:|B3||<img src="Components/Potmeter/Potmeter_Photo.jpg" alt="Photo of the component" width="200">  |  Potmeter<hr><a href="Components/Potmeter/README.md"> more info...</a>| 
 |:vomiting_face:|B3||<img src="Components/Power Jack (DC005)/DC005_Photo.jpg" alt="Photo of the component" width="200">  |  Power Jack (DC005)<hr><a href="Components/Power Jack (DC005)/README.md"> more info...</a>| 
 |:vomiting_face:|  ||<img src="Components/Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD135)<hr> <a href="Components/Transistor (BD135)/README.md"> more info...</a>   | 
 |:vomiting_face:|  ||<img src="Components/Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD136)<hr> <a href="Components/Transistor (BD136)/README.md"> more info...</a>   | 
