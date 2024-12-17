@@ -46,6 +46,7 @@ Components in the electronic circuit not programmable or readable to a microComp
 |:vomiting_face:|  ||<img src="Components/Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD136)<hr> <a href="Components/Transistor (BD136)/README.md"> more info...</a>   | 
 |:vomiting_face:|B1||<img src="Components/Voltage regulator (7805)/7805_Photo.jpg" alt="Photo of the component" width="200">  |Voltage regulator (7805, 7809, 7812)<hr><a href="Components/Voltage regulator (7805)/README.md"> more info...</a>|  
 |:vomiting_face:|B1||<img src="Components/Voltage regulator (MT3608)/MT3608_Photo.jpg" alt="Photo of the component" width="200">  |Voltage regulator (MT3608)<hr><a href="Components/Voltage regulator (MT3608)/README.md"> more info...</a>|  
+|:vomiting_face:|B1||<img src="Components/Voltage regulator (XY-ITOV)/XY-ITOV_Photo.jpg" alt="Photo of the component" width="200">  |Voltage regulator (XY-ITOV)<hr><a href="Components/Voltage regulator (XY-ITOV)/README.md"> more info...</a>|  
 
 # Display
 Different kind of displays and presentation controlled by a microComputer/ microController
