@@ -63,10 +63,10 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:vomiting_face:|A2||<img src="Display/Oled (SSD1306)/SSD1306_Photo.jpg" alt="Photo of the component" width="200"> |  Oled (SSD1306)<hr><a href="Display/Oled (SSD1306)/README.md"> more info...</a> | 
 
 # Enviroment
-
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|A1||<img src="Environment/ColorSensor (GY-31 TCS230 TCS3200)/TCS230_Photo.jpg" alt="Photo of the component" width="200">  |ColorSensor (GY-31 TCS230 TCS3200) <hr><a href="Environment/ColorSensor (GY-31 TCS230 TCS3200)/README.md"> more info...</a>|  
+|:vomiting_face:|A2||<img src="Environment/Light Intensity (BH1750)/BH1750_Photo.jpg" alt="Photo of the component" width="200">  |Light Intensity (BH1750)<hr><a href="Environment/Light Intensity (BH1750)/README.md"> more info...</a>|  
 |:vomiting_face:|A4||<img src="Environment/Sound Sensor (ST1146)/ST1146_Photo.jpg" alt="Photo of the component" width="200">  |  Sound Sensor (ST1146)<hr><a href="Environment/Sound Sensor (ST1146)/README.md"> more info...</a>|  
 |:vomiting_face:|A3||<img src="Environment/Temperature (TC74)/TC74_Photo.jpg" alt="Photo of the component" width="200">|Temperature (TC74) <hr> <a href="Environment/Temperature (TC74)/README.md"> more info...</a> | 
 |:grinning:     |A3||<img src="Environment/Temperature Humidity (DHT11)/DHT11_Photo.jpg" alt="Photo of the component" width="200">|Temperature Humidity (DHT11) <hr> <a href="Environment/Temperature Humidity (DHT11)/README.md"> more info...</a> | 
