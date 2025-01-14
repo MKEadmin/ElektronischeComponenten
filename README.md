@@ -20,9 +20,9 @@ Electronic components at SmartLab daVinci College, Dordrecht
 # Communication
 |:vomiting_face: :grinning: |Kast|AK  | Picture | Component| 
 |:--:|:---:|:---:|:---:|:---:|
-|:vomiting_face:|A2||  <img src="Communication/Canbus (MCP2515)/MCP2515_Photo.jpg" alt="Photo of the component" width="200"> |Canbus (MCP2515)<hr><a href="Communication/Canbus (MCP2515)/README.md"> more info...</a> |  
+|:vomiting_face:|A1||  <img src="Communication/Canbus (MCP2515)/MCP2515_Photo.jpg" alt="Photo of the component" width="200"> |Canbus (MCP2515)<hr><a href="Communication/Canbus (MCP2515)/README.md"> more info...</a> |  
 |:grinning:     |A3||  <img src="Communication/Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200"> |Bluetooth Transceiver (HC-05)<hr><a href="Communication/Bluetooth Transceiver (HC-05)/README.md"> more info...</a> |  
-|:vomiting_face:|A2||  <img src="Communication/Transmitter 433Mhz (FS1000A)/FS1000A_Photo.jpg" alt="Photo of the component" width="200"> |Transmitter 433Mhz (FS1000A)<hr><a href="Communication/Transmitter 433Mhz (FS1000A)/README.md"> more info...</a> |  
+|:vomiting_face:|Aa||  <img src="Communication/Transmitter 433Mhz (FS1000A)/FS1000A_Photo.jpg" alt="Photo of the component" width="200"> |Transmitter 433Mhz (FS1000A)<hr><a href="Communication/Transmitter 433Mhz (FS1000A)/README.md"> more info...</a> |  
 
 
 # Electronic Components
@@ -125,5 +125,7 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|
+|:vomiting_face:|D4|| <img src="Measuring equipment/Multimeter (VC171)/VC171_Photo.jpg" alt="Photo of the component" width="200">|Multimeter (VC171)<hr> <a href="Measuring equipment/Multimeter (VC171)/README.md"> more info...</a> 
 |:vomiting_face:|D4|| <img src="Measuring equipment/USB-Tester (FNB58)/FNB58_Photo.jpg" alt="Photo of the component" width="200">|USB-Tester (FNB58)<hr> <a href="Measuring equipment/USB-Tester (FNB58)/README.md"> more info...</a> 
+
 
