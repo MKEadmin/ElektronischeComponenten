@@ -22,6 +22,7 @@ Electronic components at SmartLab daVinci College, Dordrecht
 |:--:|:---:|:---:|:---:|:---:|
 |:vomiting_face:|A2||  <img src="Communication/Canbus (MCP2515)/MCP2515_Photo.jpg" alt="Photo of the component" width="200"> |Canbus (MCP2515)<hr><a href="Communication/Canbus (MCP2515)/README.md"> more info...</a> |  
 |:grinning:     |A3||  <img src="Communication/Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200"> |Bluetooth Transceiver (HC-05)<hr><a href="Communication/Bluetooth Transceiver (HC-05)/README.md"> more info...</a> |  
+|:vomiting_face:|A2||  <img src="Communication/Transmitter 433Mhz (FS1000A)/FS1000A_Photo.jpg" alt="Photo of the component" width="200"> |Transmitter 433Mhz (FS1000A)<hr><a href="Communication/Transmitter 433Mhz (FS1000A)/README.md"> more info...</a> |  
 
 
 # Electronic Components
