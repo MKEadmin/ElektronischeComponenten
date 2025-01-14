@@ -20,6 +20,7 @@ Electronic components at SmartLab daVinci College, Dordrecht
 # Communication
 |:vomiting_face: :grinning: |Kast|AK  | Picture | Component| 
 |:--:|:---:|:---:|:---:|:---:|
+|:vomiting_face:|A2||  <img src="Communication/Canbus (MCP2515)/MCP2515_Photo.jpg" alt="Photo of the component" width="200"> |Canbus (MCP2515)<hr><a href="Communication/Canbus (MCP2515)/README.md"> more info...</a> |  
 |:grinning:     |A3||  <img src="Communication/Bluetooth Transceiver (HC-05)/HC-05_Photo.jpg" alt="Photo of the component" width="200"> |Bluetooth Transceiver (HC-05)<hr><a href="Communication/Bluetooth Transceiver (HC-05)/README.md"> more info...</a> |  
 
 
@@ -42,8 +43,6 @@ Components in the electronic circuit not programmable or readable to a microComp
 |:vomiting_face:|A1||<img src="Components/Optocoupler (4N35)/4N35_Photo.jpg" alt="Photo of the component" width="200">  |  Optocoupler (4N35)<hr><a href="Components/Optocoupler (4N35)/README.md"> more info...</a>| 
 |:vomiting_face:|B3||<img src="Components/Potmeter/Potmeter_Photo.jpg" alt="Photo of the component" width="200">  |  Potmeter<hr><a href="Components/Potmeter/README.md"> more info...</a>| 
 |:vomiting_face:|B3||<img src="Components/Power Jack (DC005)/DC005_Photo.jpg" alt="Photo of the component" width="200">  |  Power Jack (DC005)<hr><a href="Components/Power Jack (DC005)/README.md"> more info...</a>| 
-|:vomiting_face:|  ||<img src="Components/Transistor (BD135)/BD135_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD135)<hr> <a href="Components/Transistor (BD135)/README.md"> more info...</a>   | 
-|:vomiting_face:|  ||<img src="Components/Transistor (BD136)/BD136_Photo.jpg" alt="Photo of the component" width="200">|Transistor (BD136)<hr> <a href="Components/Transistor (BD136)/README.md"> more info...</a>   | 
 |:grinning:     |B1||<img src="Components/Voltage regulator (7805)/7805_Photo.jpg" alt="Photo of the component" width="200">  |Voltage regulator (7805, 7809, 7812)<hr><a href="Components/Voltage regulator (7805)/README.md"> more info...</a>|  
 |:grinning:     |B1||<img src="Components/Voltage regulator (HLK_PM01)/HLK_PM01_Photo.jpg" alt="Photo of the component" width="200">  |Voltage regulator (HLK_PM01)<hr><a href="Components/Voltage regulator (HLK_PM01)/README.md"> more info...</a>|  
 |:grinning:     |B1||<img src="Components/Voltage regulator (MT3608)/MT3608_Photo.jpg" alt="Photo of the component" width="200">  |Voltage regulator (MT3608)<hr><a href="Components/Voltage regulator (MT3608)/README.md"> more info...</a>|  
@@ -125,5 +124,5 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 
 |:vomiting_face: :grinning: |Kast|AK|  Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|
-|:vomiting_face:||| <img src="Measuring equipment/USB-Tester (FNB58)/FNB58_Photo.jpg" alt="Photo of the component" width="200">|USB-Tester (FNB58)<hr> <a href="Measuring equipment/USB-Tester (FNB58)/README.md"> more info...</a> 
+|:vomiting_face:|D4|| <img src="Measuring equipment/USB-Tester (FNB58)/FNB58_Photo.jpg" alt="Photo of the component" width="200">|USB-Tester (FNB58)<hr> <a href="Measuring equipment/USB-Tester (FNB58)/README.md"> more info...</a> 
 
