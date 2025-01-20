@@ -4,6 +4,7 @@
 <img src="Keypad_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
+see <a href="https://learn.adafruit.com/matrix-keypad/pinouts">here </a> for pinout of the keypad
 
 ## Order
 <a href="https://www.otronic.nl/nl/3x4-matrix-keypad-zwart.html">https://www.otronic.nl/nl/3x4-matrix-keypad-zwart.htm</a>
