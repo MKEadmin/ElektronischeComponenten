@@ -86,6 +86,8 @@ Both **QRD1113** and **QRD1114** are reflective optical sensors, useful for dete
 | Pin 4 (Emitter) | GND                |
 
 ---
+<img src="QRD1114_Circuit.jpg" alt="Circuit">
+<img src="QRD1114_Schema.jpg" alt="Schema">
 
 ## 💻 MicroPython Code (Digital Read)
 
