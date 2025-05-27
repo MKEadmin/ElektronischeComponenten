@@ -1,0 +1,4 @@
+config = { "WIFI"     :{ "SSID"      : ""
+                       , "PASSWORD"  : ""
+                       }           
+    }

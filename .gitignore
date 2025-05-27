@@ -23,3 +23,4 @@ Temperature_Humidity (DHT22)/.DS_Store
 Temperature_Humidity_Pressure (BME280)/.DS_Store
 Ultrasonic distance sensor (HC-SR04)/.DS_Store
 
+Display/Neopixel (WS2812)/Fusion360/Word Clock based on LED Matrix/microPython/secrets_AK.py
