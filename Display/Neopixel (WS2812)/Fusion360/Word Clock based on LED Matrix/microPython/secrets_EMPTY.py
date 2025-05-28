@@ -1,4 +1,0 @@
-config = { "WIFI"     :{ "SSID"      : ""
-                       , "PASSWORD"  : ""
-                       }           
-    }
