@@ -108,11 +108,9 @@ Different kind of displays and presentation controlled by a microComputer/ micro
 |:vomiting_face: :grinning:|Kast|AK| Picture | Component  |
 |:--:|:---:|:---:|:---:|:---:|
 |:grinning:     |A3||<img src="Switches/RFID Module (RC522)/RC522_Photo.jpg" alt="Photo of the component" width="200">|RFID Module (RC522) <hr> <a href="Switches/RFID Module (RC522)/README.md"> more info...</a> | 
-
 |:grinning:     |A4||<img src="Switches/Relais breakout SRD-05VDC-SL-C/Relais_Photo.jpg" alt="Photo of the component" width="200">|Relais breakout SRD-05VDC-SL-C<hr> <a href="Switches/Relais breakout SRD-05VDC-SL-C/README.md"> more info...</a> | 
 |:grinning:     |A4||<img src="Switches/Relais SRD-03VDC-SL-C/Relais_Photo.jpg" alt="Photo of the component" width="200">|Relais SRD-03VDC-SL-C<hr> <a href="Switches/Relais SRD-03VDC-SL-C/README.md"> more info...</a> | 
 |:grinning:     |A4||<img src="Switches/Relais SRD-05VDC-SL-C/Relais_Photo.jpg" alt="Photo of the component" width="200">|Relais SRD-05VDC-SL-C<hr> <a href="Switches/Relais SRD-05VDC-SL-C/README.md"> more info...</a> | 
-
 |:vomiting_face:|B2||<img src="Switches/Switch Button/Switch Button_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Button<hr><a href="Switches/Switch Button/README.md"> more info...</a>|  
 |:vomiting_face:|A3||<img src="Switches/Switch Capacitieve Touch Button (HW139)/HW139_Photo.jpg" alt="Photo of the component" width="200">  |  Switch Capacitieve Touch Button (HW139)<hr><a href="Switches/Switch Capacitieve Touch Button (HW139)/README.md"> more info...</a>|  
 |:grinning:     |A4||<img src="Switches/Keypad 3x4/Keypad_Photo.jpg" alt="Photo of the component" width="200">|Keypad 3x4<hr> <a href="Switches/Keypad 3x4/README.md"> more info...</a> | 
