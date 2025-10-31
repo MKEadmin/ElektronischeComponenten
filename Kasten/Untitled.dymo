@@ -3,17 +3,17 @@
   <DYMOLabel Version="4">
     <Description>DYMO Label</Description>
     <Orientation>Landscape</Orientation>
-    <LabelName>Addresss0722370</LabelName>
+    <LabelName>LargeAddressS0722400</LabelName>
     <InitialLength>0</InitialLength>
     <BorderStyle>SolidLine</BorderStyle>
     <DYMORect>
       <DYMOPoint>
-        <X>0.23</X>
+        <X>0.22333334</X>
         <Y>0.060000002</Y>
       </DYMOPoint>
       <Size>
-        <Width>3.21</Width>
-        <Height>0.9966666</Height>
+        <Width>3.2033331</Width>
+        <Height>1.3066665</Height>
       </Size>
     </DYMORect>
     <BorderColor>
@@ -70,10 +70,10 @@
             <IsVertical>False</IsVertical>
             <LineTextSpan>
               <TextSpan>
-                <Text>Stekkers / Kabels</Text>
+                <Text>Dobot - E.M. </Text>
                 <FontInfo>
                   <FontName>Helvetica</FontName>
-                  <FontSize>27.8</FontSize>
+                  <FontSize>37.4</FontSize>
                   <IsBold>False</IsBold>
                   <IsItalic>False</IsItalic>
                   <IsUnderline>False</IsUnderline>
@@ -87,25 +87,10 @@
             </LineTextSpan>
             <LineTextSpan>
               <TextSpan>
-                <Text>Apparate</Text>
+                <Text>#15</Text>
                 <FontInfo>
                   <FontName>Helvetica</FontName>
-                  <FontSize>27.8</FontSize>
-                  <IsBold>False</IsBold>
-                  <IsItalic>False</IsItalic>
-                  <IsUnderline>False</IsUnderline>
-                  <FontBrush>
-                    <SolidColorBrush>
-                      <Color A="1" R="0" G="0" B="0"></Color>
-                    </SolidColorBrush>
-                  </FontBrush>
-                </FontInfo>
-              </TextSpan>
-              <TextSpan>
-                <Text>n</Text>
-                <FontInfo>
-                  <FontName>Helvetica</FontName>
-                  <FontSize>27.8</FontSize>
+                  <FontSize>37.4</FontSize>
                   <IsBold>False</IsBold>
                   <IsItalic>False</IsItalic>
                   <IsUnderline>False</IsUnderline>
@@ -120,12 +105,12 @@
           </FormattedText>
           <ObjectLayout>
             <DYMOPoint>
-              <X>0.22996908</X>
-              <Y>0.07310222</Y>
+              <X>0.23331258</X>
+              <Y>0.073110364</Y>
             </DYMOPoint>
             <Size>
-              <Width>3.033633</Width>
-              <Height>0.9836459</Height>
+              <Width>3.0746353</Width>
+              <Height>1.2910742</Height>
             </Size>
           </ObjectLayout>
         </TextObject>
