@@ -52,6 +52,12 @@ Would you like me to show a MicroPython example for multiple relays (e.g., 2 or 
 
 ## Wiring to Raspberry Pi Pico
 <img src="Relais_Wires.jpg" alt="Wiring" >
+<img src="Relais_Connectors.jpg" alt="Wiring" >
+
+Geschikte transistor :
+	•	BC547 (NPN, tot 100 mA) 
+	•	2N2222 (NPN, tot 600 mA
+Weerstand 330 Ohm
 
 ## Installation libraries
 Copy next files to the Raspberry Pi Pico
