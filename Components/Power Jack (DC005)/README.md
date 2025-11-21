@@ -1,7 +1,7 @@
 ## Power Jack (DC-005 or PJ-002A)
 
-<img src="PJ-005_Photo.jpg" alt="Photo of the component">
-<img src="PJ-005_QR_code.jpg" alt="QR code to this page" width="80" height="80">
+<img src="DC005_Photo.jpg" alt="Photo of the component">
+<img src="DC005_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
 The PJ-002A is a commonly used power jack, specifically designed for providing a connection point for DC power sources in electronic devices and projects. It is often used in conjunction with power adapters and batteries to supply power to various electronic circuits, particularly in DIY electronics and prototyping.
@@ -59,7 +59,7 @@ The PJ-002A power jack is a versatile and reliable component widely used in elec
 
 ## Order
 <a href="https://nl.aliexpress.com/item/1005006459299143.html">https://nl.aliexpress.com/item/1005006459299143.htm</a>
-<img src="PJ-002A_Order.jpg" alt="Photo of the Order">
+<img src="DC005_Order.jpg" alt="Photo of the Order">
 
 
 ## Wiring to Raspberry Pi Pico
