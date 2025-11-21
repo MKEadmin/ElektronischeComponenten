@@ -1,7 +1,7 @@
-## Power Jack (PJ-002A)
+## Power Jack (DC-005 or PJ-002A)
 
-<img src="PJ-002A_Photo.jpg" alt="Photo of the component">
-<img src="PJ-002A_QR_code.jpg" alt="QR code to this page" width="80" height="80">
+<img src="PJ-005_Photo.jpg" alt="Photo of the component">
+<img src="PJ-005_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
 The PJ-002A is a commonly used power jack, specifically designed for providing a connection point for DC power sources in electronic devices and projects. It is often used in conjunction with power adapters and batteries to supply power to various electronic circuits, particularly in DIY electronics and prototyping.
@@ -63,7 +63,7 @@ The PJ-002A power jack is a versatile and reliable component widely used in elec
 
 
 ## Wiring to Raspberry Pi Pico
-<img src="PJ-002A_Wiring.jpg" alt="Wiring" >
+look at : <a href="https://github.com/MKEadmin/ElektronischeComponenten/blob/main/Components/Voltage%20regulator%20(7805)/README.md">[https://nl.aliexpress.com/item/1005006459299143.htm](https://github.com/MKEadmin/ElektronischeComponenten/blob/main/Components/Voltage%20regulator%20(7805)/README.md)</a>
 
 ## Installation libraries
 Copy next files to the Raspberry Pi Pico
