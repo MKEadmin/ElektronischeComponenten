@@ -1,6 +1,6 @@
 ## Connector (JST PH 2.0)
 
-<img src="Grove_Switch.jpg" alt="Photo of the component">
+<img src="Grove_Switch_Photo.jpg" alt="Photo of the component">
 <img src="Grove_Switch_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
