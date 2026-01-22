@@ -37,7 +37,6 @@ Components in the electronic circuit not programmable or readable to a microComp
 |:vomiting_face:|A1||<img src="Components/Diode (1N4148)/1N4148_Photo.jpg" alt="Photo of the component" width="200"> |Diode (1N4148)<hr> <a href="Components/Diode (1N4148)/README.md"> more info...</a>    | 
 |:grinning:|C4||<img src="Components/Grove_Arduino_Shield/Grove_Arduino_Shield_Photo.jpg" alt="Photo of the component" width="200">|Grove Arduino Shield<hr> <a href="Components/Grove_Arduino_Shield/README.md"> more info...</a>    | 
 |:grinning:|C4||<img src="Components/Grove_Button/Grove_Button_Photo.jpg" alt="Photo of the component" width="200">|Grove Button<hr> <a href="Components/Grove_Button/README.md"> more info...</a>    | 
-|:grinning:|C4||<img src="Components/Grove_Button/Grove_Button_Photo.jpg" alt="Photo of the component" width="200"> |Grove Button<hr> <a href="Components/Grove_Button/README.md"> more info...</a>    | 
 |:grinning:|C4||<img src="Components/Grove_Led/Grove_Led_Photo.jpg" alt="Photo of the component" width="200"> |Grove Led<hr> <a href="Components/Grove_Led/README.md"> more info...</a>    | 
 |:grinning:|C4||<img src="Components/Grove_Switch/Grove_Switch_Photo.jpg" alt="Photo of the component" width="200">|Grove Switch<hr> <a href="Components/Grove_Switch/README.md"> more info...</a>    | 
 |:grinning:     |C2||<img src="Components/Header pin/Header_Photo.jpg" alt="Photo of the component" width="200"> |Header Pins<hr> <a href="Components/Header pin/README.md"> more info...</a>    |
