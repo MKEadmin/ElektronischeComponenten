@@ -1,6 +1,6 @@
 ## Connector (JST PH 2.0)
 
-<img src="JSTPH_Photo.jpg" alt="Photo of the component">
+<img src="jstph_Photo.jpg" alt="Photo of the component">
 <img src="JSTPH_QR_code.jpg" alt="QR code to this page" width="80" height="80">
 
 ## Description
